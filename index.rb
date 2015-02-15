@@ -3,7 +3,7 @@ require 'csv'
 require 'slop'
 
 input_path = 'classification.csv'
-output_path = 'out.csv'
+
 
 selected = []
 
@@ -13,7 +13,7 @@ CSV.open(input_path, "r:utf-8") do |input|
   end
 end
 
-output = CSV.open(output_path, "w:utf-8")
+output = CSV.open(Time.now.strftime("%d.%m.%Y %H:%M ")+input_path, "w:utf-8")
 
 counter = 0
 
