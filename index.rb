@@ -2,7 +2,7 @@ require 'sinatra'
 require 'csv'
 require 'slop'
 
-input_path = 'classification.csv'
+input_path = 'data/fs.csv'
 
 
 selected = []
@@ -13,9 +13,18 @@ CSV.open(input_path, "r:utf-8") do |input|
   end
 end
 
-output = CSV.open(Time.now.strftime("%d.%m.%Y %H:%M ")+input_path, "w:utf-8")
-
+output = CSV.open(input_path+Time.now.strftime(" %d.%m.%Y %H:%M.csv"), "w:utf-8")
 counter = 0
+
+selected.each do |row|
+  if row.size > 3
+    output << row
+    output.flush
+    counter+=1
+  else
+    break
+  end
+end
 
 get '/' do
   if counter<selected.size then
