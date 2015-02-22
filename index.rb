@@ -3,8 +3,7 @@ require 'csv'
 require 'slop'
 
 input_path = ENV['INPUT_PATH'] || 'data/fs.csv'
-output_path = ENV['OUTPUT_PATH'] || input_path+Time.now.strftime(" %d.%m.%Y %H:%M.csv")
-
+output_path = ENV['OUTPUT_PATH'] || input_path+'.out'
 
 
 selected = []
@@ -15,18 +14,14 @@ CSV.open(input_path, "r:utf-8") do |input|
   end
 end
 
-output = CSV.open(output_path, "a:utf-8")
-counter = 0
 
-selected.each do |row|
-  if row.size > 3
-    output << row
-    output.flush
-    counter+=1
-  else
-    break
-  end
+counter=0
+CSV.open(output_path, "r:utf-8") do |output|
+  counter = output.read.size
 end
+
+output = CSV.open(output_path, "a:utf-8")
+
 
 get '/' do
   redirect to("/#{counter}")
@@ -36,7 +31,7 @@ get '/:id' do
   counter = params[:id].to_i
   if counter<selected.size then
     wiki, cyc, cyc_name = selected[counter]
-    wiki_url = 'http://en.m.wikipedia.org/wiki/'+wiki
+    wiki_url = 'http://en.wikipedia.org/wiki/'+wiki
     cyc_url = 'http://sw.opencyc.org/concept/'+cyc
     erb :index, :locals => {:wiki_url => wiki_url, :cyc_url => cyc_url, :wiki => wiki, :cyc => cyc_name, :counter => counter}
   else

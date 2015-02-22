@@ -1,14 +1,23 @@
 <table width="100%">
   <tr>
-    <td style="text-align:center"><form action="/v/<%= counter %>" method="post"><button>Valid</button></form></td>
-    <td style="text-align:center"><form action="/i/<%= counter %>" method="post"><button>Invalid</button></form></td>
-    <td style="text-align:center"><form action="/u/<%= counter %>" method="post"><button>Unsure</button></form></td>
+    <td style="text-align:center">
+      <form action="/v/<%= counter %>" method="post">
+        <button style="height:50px; width:100%; background: green;">Valid</button>
+      </form>
+    </td>
+    <td style="text-align:center">
+      <form action="/i/<%= counter %>" method="post">
+        <button style="height:50px; width:100%; background: red;">Invalid</button>
+      </form>
+    </td>
+    <td style="text-align:center">
+      <form action="/u/<%= counter %>" method="post">
+        <button style="height:50px; width:100%; background: yellow;">Unsure</button>
+      </form>
+    </td>
   </tr>
 </table>
 <hr>
-<p>
-<%= counter %>
-</p>
 <table width="100%">
   <tr>
     <td style="text-align:center" width="50%"><h1><%= wiki %></h1></td>
