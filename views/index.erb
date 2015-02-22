@@ -1,18 +1,36 @@
+<head>
+<style>
+.button {
+height:50px; 
+width:100%;
+font-weight:bold;
+}
+.red {
+background: red;
+}
+.green {
+background: green;
+}
+.yellow {
+background: yellow;
+}
+</style>
+</head>
 <table width="100%">
   <tr>
     <td style="text-align:center">
       <form action="/v/<%= counter %>" method="post">
-        <button style="height:50px; width:100%; background: green;">Valid</button>
+        <button class="button green">Valid</button>
       </form>
     </td>
     <td style="text-align:center">
       <form action="/i/<%= counter %>" method="post">
-        <button style="height:50px; width:100%; background: red;">Invalid</button>
+        <button class="button red">Invalid</button>
       </form>
     </td>
     <td style="text-align:center">
       <form action="/u/<%= counter %>" method="post">
-        <button style="height:50px; width:100%; background: yellow;">Unsure</button>
+        <button class="button yellow">Unsure</button>
       </form>
     </td>
   </tr>

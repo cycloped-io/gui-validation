@@ -16,11 +16,13 @@ end
 
 
 counter=0
-CSV.open(output_path, "r:utf-8") do |output|
-  counter = output.read.size
+if File.exist?(output_path)
+  CSV.open(output_path, "a+:utf-8") do |output|
+    counter = output.read.size
+  end
 end
 
-output = CSV.open(output_path, "a:utf-8")
+output = CSV.open(output_path, "a+:utf-8")
 
 
 get '/' do
