@@ -1,5 +1,8 @@
 <head>
 <style>
+table.buttons tr td {
+  text-align:center;
+}
 .button {
 height:50px; 
 width:100%;
@@ -16,22 +19,36 @@ background: yellow;
 }
 </style>
 </head>
-<table width="100%">
+<table width="100%" class="buttons">
   <tr>
-    <td style="text-align:center">
+    <td>
+      <% if counter > 0 %>
+      <form action="/<%= counter - 1 %>">
+        <button class="button">&laquo;</button>
+      </form>
+      <% end %>
+    </td>
+    <td>
       <form action="/v/<%= counter %>" method="post">
         <button class="button green">Valid</button>
       </form>
     </td>
-    <td style="text-align:center">
+    <td>
       <form action="/i/<%= counter %>" method="post">
         <button class="button red">Invalid</button>
       </form>
     </td>
-    <td style="text-align:center">
+    <td>
       <form action="/u/<%= counter %>" method="post">
         <button class="button yellow">Unsure</button>
       </form>
+    </td>
+    <td>
+      <% if counter < 599 %>
+      <form action="/<%= counter + 1 %>">
+        <button class="button">&raquo;</button>
+      </form>
+      <% end %>
     </td>
   </tr>
 </table>
