@@ -134,11 +134,9 @@ v,Multiple-camera setup,Mx4r-c445joZQdeL9clHkSkN2A,TechniqueType
 v,KBYZ,Mx4rvVjvzZwpEbGdrcN5Y29ycA,RadioStation-Organization
 v,Johann Valentin Meder,Mx8Ngh4rvW-_IZwpEbGdrcN5Y29ycB4rv5XMb5wpEbGdrcN5Y29ycA,"[:PlayerOfInstrumentFn, :""Organ-MusicalInstrument""]"
 v,David Levering Lewis,Mx4rvVidtpwpEbGdrcN5Y29ycA,AcademicProfessional
-u,Richard Goddard,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 v,Godley railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 v,Pasmo,Mx4rwLx8_5wpEbGdrcN5Y29ycA,SmartCard
 v,Flounder tramping,Mx4r-c445joZQdeL9clHkSkN2A,TechniqueType
-i,Airline codes,Mx4rvViq7pwpEbGdrcN5Y29ycA,AirlineCompany
 v,Garadjari language,Mx4rvVj0iZwpEbGdrcN5Y29ycA,Language
 v,Junior Ryder Cup,Mx4rvvTIC5wpEbGdrcN5Y29ycA,GolfTournament
 v,Michael Abercrombie,Mx4rvViyfpwpEbGdrcN5Y29ycA,AdultMaleHuman
@@ -207,7 +205,6 @@ u,42d Air Division,Mx4rMNnCADt6EdaAAACgye-oRQ,Division-MilitaryEchelon
 v,The Garden (journal),Mx4rwQ7-8pwpEbGdrcN5Y29ycA,MagazineSeries
 v,Chinhoyi High School,Mx4r3np2ODTxEdqAAAAH6RYvSQ,School-AcademicOrganization
 v,Chris de Freitas,Mx4rvVj755wpEbGdrcN5Y29ycA,Scientist
-u,Cambrian James,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,Imran Khan (Trinidad and Tobago cricketer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,"Sedes Sapientiae, Leuven",Mx4rvVjHuJwpEbGdrcN5Y29ycA,ArtObject
 v,PCAF,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
@@ -259,7 +256,6 @@ v,United Nations Security Council Resolution 133,Mx4r_9NzUOi9EdmAAAACs4vPlg,UNSe
 v,Polyceratocarpus scheffleri,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 u,ASTM F 1915,Mx4rtiEkBizjQdicSd6q-NEThQ,Criterion
 v,Marvel Legends Showdown,Mx4rvkS9GZwpEbGdrcN5Y29ycA,Game
-i,List of Canadian Soccer League seasons,Mx4reRavYrKQEd2AAAAhm0jtOQ,FootballSeason
 v,Bolton TIC,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
 v,Eljas,Mx4r06ySZMcYEdmAAAACs6hRjg,Municipality
 v,Bayonne ham,Mx4rvVkFYpwpEbGdrcN5Y29ycA,Product
@@ -268,7 +264,6 @@ v,"San Antonio, Oakland, California",Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
 v,The Peppermint Rainbow,Mx4rvVij7ZwpEbGdrcN5Y29ycA,MusicPerformanceOrganization
 v,Angel (Ohio Players album),Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
 v,Budhan Khuh,Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
-u,Samuel Palermo,Mx4rtUDYBLrMEdaAAAACs6Mw3A,IntelligenceOperative
 v,Cugir River,Mx4rvVkHM5wpEbGdrcN5Y29ycA,River
 i,JimJam,Mx4rwQCRppwpEbGdrcN5Y29ycA,TelevisionStation
 v,Myiagros,Mx4rvVjrCJwpEbGdrcN5Y29ycA,God
@@ -278,7 +273,6 @@ u,Drum key,Mx4rvViS45wpEbGdrcN5Y29ycA,PercussionInstrument
 v,The Reader (2008 film),Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 i,Luke's Trolley Troubles,Mx4rvVkB4ZwpEbGdrcN5Y29ycA,PhotographicFilm
 v,Bennet (supermarket),Mx4rvVjQNpwpEbGdrcN5Y29ycA,Business
-u,The Rajah,Mx4rwBoeX5wpEbGdrcN5Y29ycA,ComedyMovie
 v,"Jankowa, Lower Silesian Voivodeship",Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 i,The Bonnie Brier Bush,Mx4rvVkB4ZwpEbGdrcN5Y29ycA,PhotographicFilm
 v,Karin Kjølmoen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -415,7 +409,6 @@ v,Walter Presch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Kickapoo Downtown Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
 v,M1 highway (Belarus),Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
 u,Belgian Eifel,Mx4rvVkKUJwpEbGdrcN5Y29ycA,Volcano
-u,Mia Presley,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,McMillen High School,Mx4rvVjsgZwpEbGdrcN5Y29ycA,HighSchool
 v,Eremicola,Mx4rvVian5wpEbGdrcN5Y29ycA,BiologicalGenus
 v,Tshepo Motlhabankwe,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
@@ -426,7 +419,6 @@ i,Institute of Asian and African Countries,Mx4rvVi3N5wpEbGdrcN5Y29ycA,FieldOfStu
 v,Ted Roop,Mx4rvy3DbpwpEbGdrcN5Y29ycA,RadioPersonality
 v,RAF 2,Mx4rvVjOxJwpEbGdrcN5Y29ycA,Engine
 v,Petra Santy,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
-i,List of saints of Ireland,Mx4rwQCWO5wpEbGdrcN5Y29ycA,Saint
 v,Denon Records,Mx4rwNdapZwpEbGdrcN5Y29ycA,RecordCompany
 v,Ogu/Bolo,Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
 v,Turnback The Alarm Handicap,Mx4rv6tMRpwpEbGdrcN5Y29ycA,HorseRacingEvent
@@ -447,7 +439,6 @@ v,"Judith of Bavaria, Duchess of Swabia",Mx4rwOcFjJwpEbGdrcN5Y29ycA,Duchess
 v,Glaslyn Osprey Project,Mx4rbXHMfAnoEdqAAAACs0x8nw,NatureReserve
 v,I G Inspector General,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 v,Adir Maman,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
-i,List of most common surnames in Central America,Mx4rv2Wq-ZwpEbGdrcN5Y29ycA,HumanSurname
 v,Eytan Mirsky,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,Porfirio López,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Jenniskens,Mx4rv2Wq-ZwpEbGdrcN5Y29ycA,HumanSurname
@@ -497,7 +488,6 @@ v,1924 in Croatia,Mx4rvVjyV5wpEbGdrcN5Y29ycA,CalendarYear
 i,Dreghorn Barracks,Mx4r1n91NLi3EdmAAAACs6hRjg,BuildingSomething-Supervising
 u,Jhumur,Mx4rdUzR9nSwEdaAAACgyZzFrg,ObjectTypeByStyle
 v,Red Eclipse,Mx4rvkS9GZwpEbGdrcN5Y29ycA,Game
-i,List of roller hockey clubs,Mx4rvViYs5wpEbGdrcN5Y29ycA,HockeyTeam
 i,1991 New Zealand rugby league season,Mx4rvgEUH5wpEbGdrcN5Y29ycA,CalendarSeasonType
 v,Farhat Hotel,Mx4rvViIe5wpEbGdrcN5Y29ycA,HotelBuilding
 v,2011 Utah State Aggies football team,Mx4reRavYrKQEd2AAAAhm0jtOQ,FootballSeason
@@ -517,13 +507,11 @@ v,Florida Hospital East,Mx4rvViRwZwpEbGdrcN5Y29ycA,Hospital
 v,M. K. Ashok,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,William Henry Hyett,Mx8NhB4rvcD6KJwpEbGdrcN5Y29ycB4rvsaaeJwpEbGdrcN5Y29ycB4rvViz-5wpEbGdrcN5Y29ycB4rvZGAFpwpEbGdrcN5Y29ycA,"[:SubcollectionOfWithRelationFromTypeFn, :""Agent-Generic"", :hasMembers, :MultiIndividualAgent]"
 u,"Fourth Church of Christ, Scientist (New York City)",Mx4r8xiK9h5sQdecO7LzXLQRKw,Synagogue-Building
-i,(16473) 1990 QF2,Mx4rvVjReJwpEbGdrcN5Y29ycA,AstronomicalObject
 u,Radretumab,Mx4rImDPUpx2Ed2AAABQjYGu0g,AntibodyMolecule
 v,Shelly Mars,Mx4rwQrkuJwpEbGdrcN5Y29ycA,Entertainer
 v,Stig Larsson (author),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,European Universities Beach Volleyball Championships,Mx4rvnDzV5wpEbGdrcN5Y29ycA,DegreeGrantingHigherEducationInstitution
 v,Richard L. Thompson,Mx4rwQBTypwpEbGdrcN5Y29ycA,HinduPerson
-i,Outline of mathematics,Mx4rvVi3N5wpEbGdrcN5Y29ycA,FieldOfStudy
 v,Neismecke,Mx4rvVkHM5wpEbGdrcN5Y29ycA,River
 v,Sudbach,Mx4rvVkHM5wpEbGdrcN5Y29ycA,River
 v,Terminal de Autobuses de Pasajeros de Oriente,Mx4rGyB6uGbnQdichKPFIDIErQ,BusStation
@@ -551,7 +539,6 @@ v,Elad Gabai,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 v,Manual Gonsalus,Mx8NhB4rvcD6KJwpEbGdrcN5Y29ycB4rvViAkpwpEbGdrcN5Y29ycB4rdzoMHJmWEdaAAAACs1uxFx4rvViIeZwpEbGdrcN5Y29ycA,"[:SubcollectionOfWithRelationFromTypeFn, :Person, :immigrant, :Country]"
 v,Come to the River,Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
 v,Samghan,Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
-u,Thomas Smith (footballer),Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 v,Frances Packing House,Mx4rvVjiX5wpEbGdrcN5Y29ycA,FactoryBuilding
 v,South Africa men's national under-18 ice hockey team,Mx4rvmggJ5wpEbGdrcN5Y29ycA,NationalSportsTeam
 v,Stachys clingmanii,Mx4rvVjK65wpEbGdrcN5Y29ycA,BiologicalSpecies
@@ -590,7 +577,6 @@ v,Haylie Wagner,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,Rolando Barra,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,Ahmad Salar-e Kalat Tayebi,Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
 v,Harpalus martini,Mx4r5lNPkMLgQdeAzr878CoUZw,NonHumanAnimal
-u,7828 Noriyositosi,Mx4rvVjReJwpEbGdrcN5Y29ycA,AstronomicalObject
 v,Rooftree,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 v,Coloptilia conchylidella,Mx4r5lNPkMLgQdeAzr878CoUZw,NonHumanAnimal
 v,Dennis Feldman,Mx4r1_WUCnWaQdeEdp-4peq4Og,Graduate
