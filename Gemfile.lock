@@ -1,0 +1,17 @@
+GIT
+  remote: git://github.com/djstrong/progress.git
+  revision: 46b34854f62c5f96a116cd971cd6d6226796e35c
+  specs:
+    progress (3.0.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    slop (3.4.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  progress!
+  slop (~> 3.4.7)
