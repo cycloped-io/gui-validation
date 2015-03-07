@@ -7,12 +7,11 @@ require 'progress'
 
 
 options = Slop.new do
-  banner "#{$PROGRAM_NAME} -f validation.csv -t high_level.csv -o new_validation.csv\n" +
+  banner "#{$PROGRAM_NAME} -f high_level_validation.csv -o multi_high_level.csv\n" +
              "Some stats about multi high-level types"
 
   on :f=, :input, "File with high-level assignments of types", required: true
   on :o=, :output, "Output file with multi high-level types", required: true
-  # on :t=, :types, "High-level assignments of types", required: true
 end
 
 begin
