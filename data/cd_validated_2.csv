@@ -261,7 +261,7 @@ v,Betty Malmberg,Mx4r1PJrHNViQdaf4KqKrwDfPQ,ElectedOfficial
 v,Bangladesh University,Mx4r3np2ODTxEdqAAAAH6RYvSQ,School-AcademicOrganization
 v,John Orsi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Robert Garrigus,Mx4rvVi--5wpEbGdrcN5Y29ycA,Athlete
-v,Gottipati Brahmaiah,Mx4rvVjvBZwpEbGdrcN5Y29ycA,MilitaryPerson
+i,Gottipati Brahmaiah,Mx4rvVjvBZwpEbGdrcN5Y29ycA,MilitaryPerson
 i,Tommy Thompson (footballer born 1928),Mx4rvVj7uZwpEbGdrcN5Y29ycA,GeneralManager-SportsTeam
 i,The Mike Schneider Polka Band,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,La Cuba,Mx4rv33BppwpEbGdrcN5Y29ycA,Village
@@ -411,7 +411,7 @@ v,Gertrude Simmons Burlingham,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Aoi Bungaku,Mx4rv-znjZwpEbGdrcN5Y29ycA,Manga
 v,Stephen Codman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Fritz Jack,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-v,Pallichandai Silaiman,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+i,Pallichandai Silaiman,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 v,Hari Sevugan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Bwaga Cheti,Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 v,Versam-Safien (Rhaetian Railway station),Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
@@ -419,7 +419,7 @@ v,Nami Yayak,Mx4rvVi--5wpEbGdrcN5Y29ycA,Athlete
 v,Marco Parolo,Mx4rvVi--5wpEbGdrcN5Y29ycA,Athlete
 v,Saint Peter and Paul Cathedral,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 v,Alastair McAllister,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-i,7806 Umasslowell,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
+v,7806 Umasslowell,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
 v,Clinch County School District,Mx4r3np2ODTxEdqAAAAH6RYvSQ,School-AcademicOrganization
 v,Sven Garas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Holy Trinity Platt Church,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
@@ -484,7 +484,7 @@ v,Adam Gemili,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 i,CGIAR Consortium of International Agricultural Research Centers,Mx4rvVjjvpwpEbGdrcN5Y29ycA,University
 v,Mönkh KHairkhan,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
 v,Damien Troquenet,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-i,(7768) 1991 SX1,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
+v,(7768) 1991 SX1,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
 v,City Choir of Washington,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Santa Eulàlia de Ronçana,Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 v,Ed Moriarty,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -580,3 +580,21 @@ v,Davide Mariani,Mx4rvVi--5wpEbGdrcN5Y29ycA,Athlete
 v,Jordan Martinook,Mx4rvVi--5wpEbGdrcN5Y29ycA,Athlete
 v,The Grave (poem),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 v,Daniel Omielańczuk,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Émilien Pelletier,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Henry Slicer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Murder of Matthew Burns,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Yair Hirschfeld,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ibrahim Shahda,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Melissa Hawach,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+i,The Carstairs,Mx4rvVjqXpwpEbGdrcN5Y29ycA,MusicalPerformer
+v,Boise Union Pacific Depot,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,John G. Fleagle,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Brian Connolly,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"New Town, North Dakota",Mx4rvVjnZ5wpEbGdrcN5Y29ycA,City
+v,Serocee,Mx4rvVjqXpwpEbGdrcN5Y29ycA,MusicalPerformer
+v,Jay Cooke,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+u,Mosnang,Mx4rv33BppwpEbGdrcN5Y29ycA,Village
+v,General Heriberto Jara International Airport,Mx4rvVj-r5wpEbGdrcN5Y29ycA,Airport-Physical
+v,Judith Keppel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,João Franco,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Krishna Gopalayyan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person

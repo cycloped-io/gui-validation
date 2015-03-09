@@ -57,7 +57,7 @@ i,Colorado Foxes,Mx4rvVj8mpwpEbGdrcN5Y29ycA,ClubbingSomeone
 v,Oahe Dam,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
 v,"Katra, Jammu and Kashmir",Mx4rvVjnZ5wpEbGdrcN5Y29ycA,City
 v,Assegai,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
-i,Conspiracy fiction,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
+v,Conspiracy fiction,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 v,Ballarat Football League,Mx4rvViAGpwpEbGdrcN5Y29ycA,Competition
 v,Medicine (band),Mx4rvVij7ZwpEbGdrcN5Y29ycA,MusicPerformanceOrganization
 v,Canned hunt,Mx4rwQrrDJwpEbGdrcN5Y29ycA,CriminalAct
@@ -201,7 +201,7 @@ v,10th/Osage (RTD),Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 v,Hastings Gardens,Mx4rvVjv75wpEbGdrcN5Y29ycA,Garden
 v,Vildan Atasever,Mx4rvVjaHZwpEbGdrcN5Y29ycA,Actor
 u,Shocks and discontinuities (magnetohydrodynamics),Mx4r0o17spBYQdeYc40ztWs-AQ,ShockWave
-u,42d Air Division,Mx4rMNnCADt6EdaAAACgye-oRQ,Division-MilitaryEchelon
+v,42d Air Division,Mx4rMNnCADt6EdaAAACgye-oRQ,Division-MilitaryEchelon
 v,The Garden (journal),Mx4rwQ7-8pwpEbGdrcN5Y29ycA,MagazineSeries
 v,Chinhoyi High School,Mx4r3np2ODTxEdqAAAAH6RYvSQ,School-AcademicOrganization
 v,Chris de Freitas,Mx4rvVj755wpEbGdrcN5Y29ycA,Scientist
@@ -228,7 +228,7 @@ v,National Chinese Orchestra Taiwan,Mx4rvVij7ZwpEbGdrcN5Y29ycA,MusicPerformanceO
 v,Pennsylvania Route 160,Mx4rvVjVYZwpEbGdrcN5Y29ycA,Highway
 u,Biurists,Mx4ricIx-Bk3QdifDqwFbZVelw,Scholar
 u,G. F. Newman,Mx4rR-GpAisyEdiaugAH6RYvVQ,Producer
-u,Phellinus ferreus,Mx4rvViZCZwpEbGdrcN5Y29ycA,Fungus
+v,Phellinus ferreus,Mx4rvViZCZwpEbGdrcN5Y29ycA,Fungus
 v,Miszla,Mx4rrPJDpCTfQdeS8IqP1a0lBw,PopulatedPlace
 v,Richard S. Arnold,Mx4r1_WUCnWaQdeEdp-4peq4Og,Graduate
 v,Charlie Hoag,Mx4rvVjtBpwpEbGdrcN5Y29ycA,FootballPlayer-American
@@ -292,7 +292,7 @@ v,Gaetano Koch,Mx4rwQxF25wpEbGdrcN5Y29ycA,Architect
 v,"Prem Nagar, Uttarakhand",Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 v,Thorney RUFC,Mx4rvViwbJwpEbGdrcN5Y29ycA,SportsTeam
 v,Alojz Gradnik,Mx4rvVi08ZwpEbGdrcN5Y29ycA,Translator
-u,301st Airlift Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
+v,301st Airlift Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
 v,Lustwandel,Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
 v,Artgal mac Cathail,Mx4rvVjnNpwpEbGdrcN5Y29ycA,King-HeadOfState
 v,Vittorio Cecchi Gori,Mx4rvssetJwpEbGdrcN5Y29ycA,Producer-Movie
@@ -304,7 +304,7 @@ v,Weller Hauraki,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,General Assembly (horse),Mx4rdDJ92McaEdmAAAACs6hRjg,Racehorse
 v,Cengiz Akyıldız,Mx4rvVjL0JwpEbGdrcN5Y29ycA,IceHockeyPlayer
 v,"William Willard Gibson, Jr.",Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
-u,393d Bomb Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
+v,393d Bomb Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
 v,NetherLines,Mx4rvViq7pwpEbGdrcN5Y29ycA,AirlineCompany
 v,4957 Brucemurray,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
 v,7727 Chepurova,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
@@ -434,7 +434,7 @@ v,Minuscule 580,Mx4rTFCPhMcbEdmAAAACs6hRjg,Manuscript-Handwritten
 v,It's Called Life,Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
 i,Mambas Noirs FC,Mx4rvbgsJ5wpEbGdrcN5Y29ycA,Club-TheSuit
 v,Maine Mor Ó Cellaigh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-u,(7916) 1981 EN,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
+v,(7916) 1981 EN,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
 v,"Judith of Bavaria, Duchess of Swabia",Mx4rwOcFjJwpEbGdrcN5Y29ycA,Duchess
 v,Glaslyn Osprey Project,Mx4rbXHMfAnoEdqAAAACs0x8nw,NatureReserve
 v,I G Inspector General,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
@@ -493,7 +493,7 @@ v,Farhat Hotel,Mx4rvViIe5wpEbGdrcN5Y29ycA,HotelBuilding
 v,2011 Utah State Aggies football team,Mx4reRavYrKQEd2AAAAhm0jtOQ,FootballSeason
 v,Galoot,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 u,Beijing People's Art Theatre,Mx4rvViwqZwpEbGdrcN5Y29ycA,MovieTheaterSpace
-u,347th Fighter Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
+v,347th Fighter Squadron,Mx4rIlMG-HS8EdaAAACgyZzFrg,Squadron-MilitaryEchelon
 v,Al-Qudaibiya Palace,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
 v,Rob Heeney,Mx4rvVj5IZwpEbGdrcN5Y29ycA,TennisPlayer
 v,Johann Otto von Gemmingen,Mx4rwN8hS5wpEbGdrcN5Y29ycA,Bishop-Clerical
@@ -507,7 +507,7 @@ v,Florida Hospital East,Mx4rvViRwZwpEbGdrcN5Y29ycA,Hospital
 v,M. K. Ashok,Mx4rSyH0jhJbEd2AAADggVfs8g,Person-3050
 v,William Henry Hyett,Mx8NhB4rvcD6KJwpEbGdrcN5Y29ycB4rvsaaeJwpEbGdrcN5Y29ycB4rvViz-5wpEbGdrcN5Y29ycB4rvZGAFpwpEbGdrcN5Y29ycA,"[:SubcollectionOfWithRelationFromTypeFn, :""Agent-Generic"", :hasMembers, :MultiIndividualAgent]"
 u,"Fourth Church of Christ, Scientist (New York City)",Mx4r8xiK9h5sQdecO7LzXLQRKw,Synagogue-Building
-u,Radretumab,Mx4rImDPUpx2Ed2AAABQjYGu0g,AntibodyMolecule
+v,Radretumab,Mx4rImDPUpx2Ed2AAABQjYGu0g,AntibodyMolecule
 v,Shelly Mars,Mx4rwQrkuJwpEbGdrcN5Y29ycA,Entertainer
 v,Stig Larsson (author),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,European Universities Beach Volleyball Championships,Mx4rvnDzV5wpEbGdrcN5Y29ycA,DegreeGrantingHigherEducationInstitution
@@ -543,7 +543,7 @@ v,Frances Packing House,Mx4rvVjiX5wpEbGdrcN5Y29ycA,FactoryBuilding
 v,South Africa men's national under-18 ice hockey team,Mx4rvmggJ5wpEbGdrcN5Y29ycA,NationalSportsTeam
 v,Stachys clingmanii,Mx4rvVjK65wpEbGdrcN5Y29ycA,BiologicalSpecies
 v,Federation of Panamerica,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-u,Who Killed Lamb?,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
+v,Who Killed Lamb?,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
 v,Cornelius O'Callaghan,Mx8NhB4rvcD6KJwpEbGdrcN5Y29ycB4rvsaaeJwpEbGdrcN5Y29ycB4rvViz-5wpEbGdrcN5Y29ycB4rvZGAFpwpEbGdrcN5Y29ycA,"[:SubcollectionOfWithRelationFromTypeFn, :""Agent-Generic"", :hasMembers, :MultiIndividualAgent]"
 v,Mordecai Sheftall,Mx4rwQB4UJwpEbGdrcN5Y29ycA,JewishPerson
 v,"David Burns, Lord Burns",Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -584,3 +584,17 @@ v,Fifty Years of Silence,Mx4rvbZoS5wpEbGdrcN5Y29ycA,Autobiography
 v,Portuguese Handball Third Division,Mx4rvzrBuJwpEbGdrcN5Y29ycA,OrganizationOfOrganizations
 v,Monster Retsuden Oreca Battle,Mx4rvkS9GZwpEbGdrcN5Y29ycA,Game
 v,Neetho,Mx4rv973YpwpEbGdrcN5Y29ycA,Movie-CW
+i,IAR Graduate Conference,Mx4rvViNhJwpEbGdrcN5Y29ycA,ResearchOrganization
+v,Yu Minobe,Mx4rvViQHpwpEbGdrcN5Y29ycA,Gymnast
+v,Papyrus 74,Mx4rvVjn9ZwpEbGdrcN5Y29ycA,Manuscript
+v,Zulu Heart,Mx4rvViJb5wpEbGdrcN5Y29ycA,Novel-CW
+i,"Henry, Vermillion Parish, Louisiana",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+i,HaPijamot,Mx4r7CkgamvDQdmPU-5PSHYHpA,TelevisionProgramming
+v,Alpe d'Huez Triathlon,Mx4rvViAGpwpEbGdrcN5Y29ycA,Competition
+i,"Suska, Otwock County",Mx4rv33BppwpEbGdrcN5Y29ycA,Village
+v,Hospital del Niño Jesús,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+v,A.F.C. Sudbury,Mx4rv4ohjpwpEbGdrcN5Y29ycA,Club-Organization
+v,Load Me Up,Mx4rwP3teJwpEbGdrcN5Y29ycA,Song-CW
+i,Active Template Library,Mx4ru41tNCaOQdeei6b7OtKxmg,Library-Department
+i,2008–09 Football League Championship,Mx4reRavYrKQEd2AAAAhm0jtOQ,FootballSeason
+v,"United States House of Representatives elections in South Carolina, 1924",Mx4rwQrmEZwpEbGdrcN5Y29ycA,Election

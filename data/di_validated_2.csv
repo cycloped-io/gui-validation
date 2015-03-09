@@ -355,7 +355,7 @@ v,Pentobarbital,Mx4rvWIw95wpEbGdrcN5Y29ycA,Pentobarbital
 i,Drugstore (band),Mx4rvVkGLpwpEbGdrcN5Y29ycA,DrugStore
 v,Jamiat Ulema-e-Islam,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Leven Rambin,Mx4rvVjaHZwpEbGdrcN5Y29ycA,Actor
-v,"Montpelier (Cabin Point, Virginia)",Mx4rvViEwJwpEbGdrcN5Y29ycA,USCity
+i,"Montpelier (Cabin Point, Virginia)",Mx4rvViEwJwpEbGdrcN5Y29ycA,USCity
 v,Agalychnis callidryas,Mx4rlY8Q4LXoQRyYftkdOsNk1Q,RedEyedTreeFrog
 v,Kyle Richards,Mx4rv4C-JZwpEbGdrcN5Y29ycA,Celebrity
 v,Triamcinolone acetonide,Mx4rwP1nK5wpEbGdrcN5Y29ycA,TriamcinoloneAcetonide
@@ -585,7 +585,7 @@ v,Erigeron rhizomatus,Mx4rvnNRHZwpEbGdrcN5Y29ycA,ZuniFleabane
 v,Hypericum cumulicola,Mx4rwCMPgJwpEbGdrcN5Y29ycA,HighlandsScrubHypericum
 v,Arab-Berber,Mx4rvVjJ5ZwpEbGdrcN5Y29ycA,EthnicGroupOfArab-Berbers
 v,Plantago hawaiensis,Mx4rvtf53ZwpEbGdrcN5Y29ycA,LaukahiKuahiwi
-v,"Elmhurst (Caldwell, West Virginia)",Mx4rvViEwJwpEbGdrcN5Y29ycA,USCity
+i,"Elmhurst (Caldwell, West Virginia)",Mx4rvViEwJwpEbGdrcN5Y29ycA,USCity
 v,Diggy Simmons,Mx4rZPcwWlMLQdeRwPloCN1QRg,RapMusicPerformer
 v,Diglyceride,Mx4rTBMGBJB0Qe6ngBDtrRAi6w,Diglyceride
 i,Granada (Albéniz),Mx4raItU5Vk6QkuM7_QH8H8dkQ,Department-Nicaragua
@@ -594,3 +594,7 @@ v,Informix Corporation,Mx4rvVjZ_ZwpEbGdrcN5Y29ycA,PubliclyHeldCorporation
 i,MODE (magazine),Mx4rvzmtx5wpEbGdrcN5Y29ycA,LocalProgram
 v,Arthur (Ghosts 'n Goblins),Mx4rwHKvgpwpEbGdrcN5Y29ycA,FictionalCharacter
 v,Wasbir Hussain,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Light aircraft carrier,Mx4rvewA05wpEbGdrcN5Y29ycA,LightAircraftCarrier
+v,Political officer (British Empire),Mx8NhB4rcacO5KgcQdidVfCUDYB6bg-RUG9saXRpY2FsIG9mZmljZXIeK71YotmcKRGxna3DeWNvcnAPpDRiMWNmMmE0LTE3YWEtNDFkOS04Mjk1LThiZjJhNTVmZjEzNw,"[:""InstanceNamedFn-Ternary"", ""Political officer"", :PersonTypeByOccupation, ""4b1cf2a4-17aa-41d9-8295-8bf2a55ff137""]"
+v,Acacia catechu,Mx4rjqP4ka0WEd6eNAAhm0kILA,AcaciaCatechu
+u,Kickboxing,Mx4rvWJmUpwpEbGdrcN5Y29ycA,KickboxingSportsEvent
