@@ -232,15 +232,15 @@ v,Simone Ortega,Mx4rvViowZwpEbGdrcN5Y29ycA,Author
 v,British Constitution Association,Mx4rn5PYAsseEdmAAAACs6hRjg,Lobby-PoliticalOrganization
 v,KXPN (AM),Mx4rvVjvzZwpEbGdrcN5Y29ycA,RadioStation-Organization
 v,Kirchbach in Steiermark,Mx4r06ySZMcYEdmAAAACs6hRjg,Municipality
-u,SFRS3,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,SFRS3,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
 v,Cabled Linear Traction,Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
 v,Darren O'Neill,Mx4rvViXA5wpEbGdrcN5Y29ycA,Boxer
 v,Juan Schiaretti,Mx4rvVjntpwpEbGdrcN5Y29ycA,Politician
-u,NUP54,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,NUP54,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
 v,"Sultanabad, Karimnagar",Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 i,Jeff Staggs,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 v,Brachymenes,Mx4rvVi8MZwpEbGdrcN5Y29ycA,Wasp
-u,SEPT11,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,SEPT11,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
 v,Alf Haynes,Mx4rvVkDmZwpEbGdrcN5Y29ycA,SoccerPlayer
 v,Malwelwe,Mx4rv33BppwpEbGdrcN5Y29ycA,Village
 v,Andy Wilson (director),Mx8NhB4rvcD6KJwpEbGdrcN5Y29ycB4rvViAkpwpEbGdrcN5Y29ycB4rvViZVJwpEbGdrcN5Y29ycB4rvVjVT5wpEbGdrcN5Y29ycA,"[:SubcollectionOfWithRelationFromTypeFn, :Person, :boardMembers, :Organization]"
@@ -434,7 +434,7 @@ v,Kevin McKiernan,Mx4rvVjqs5wpEbGdrcN5Y29ycA,Director-Movie
 v,Junji Ito (fighter),Mx4rwTJaJpwpEbGdrcN5Y29ycA,MartialArtist
 v,Teilia Quarry,Mx4rwPK1qJwpEbGdrcN5Y29ycA,Quarry
 v,Finesse (Glenn Jones album),Mx4rwLmi3JwpEbGdrcN5Y29ycA,Album-CW
-v,"Speed Printing (Grand Forks, North Dakota)",Mx4r1n91NLi3EdmAAAACs6hRjg,BuildingSomething-Supervising
+i,"Speed Printing (Grand Forks, North Dakota)",Mx4r1n91NLi3EdmAAAACs6hRjg,BuildingSomething-Supervising
 v,John Mazach,Mx4rcm4lMHS5EdaAAACgyZzFrg,ViceAdmiral-Rank
 v,"Bear Lake, Rusk County, Wisconsin",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
 v,William Maire,Mx4rBoVGGMkrEdmAAAACs6hRjg,Archpriest
@@ -543,7 +543,7 @@ i,Ídolos Brazil (season 1),Mx4rvViE3pwpEbGdrcN5Y29ycA,SeasonOfYear
 v,"Jefferson County, Jefferson Territory",Mx4re7e94B5nSVysICb_r6Fgeg,County-State-Geopolitical
 i,Toverud,Mx4rwQr0GZwpEbGdrcN5Y29ycA,Agriculture
 i,Vésuviennes,Mx8Ngh4rk8FkyByASfy4ekR80cwMTA-FZ3JvdXA,"[:CodeVarTypeDefNamedFn, ""group""]"
-u,Engineering process outsourcing,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+i,Engineering process outsourcing,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,QTS Skills Tests,Mx4rwDDErJwpEbGdrcN5Y29ycA,SpecifiedTest-CW
 v,Herald and Review 100,Mx4rvVizPpwpEbGdrcN5Y29ycA,CarRacing
 i,Vann Lake and Ockley Woods,Mx4rJtdTVoJNQdeOqaFkQvl7dw,WebSite
@@ -572,7 +572,7 @@ u,Co-option (biology),Mx4rvVju5JwpEbGdrcN5Y29ycA,Volume
 i,2003–04 QSPHL season,Mx4rvgEUH5wpEbGdrcN5Y29ycA,CalendarSeasonType
 u,Don Tancredo,Mx4r-c445joZQdeL9clHkSkN2A,TechniqueType
 v,Harvard College v. Amory,Mx4rhvQ6SIDLQdeVyO222GNvJQ,CourtCase
-v,Lodderena pachynepion,Mx8Ngh4rvVi-TJwpEbGdrcN5Y29ycB4rvViUUJwpEbGdrcN5Y29ycA,"[:MeatFn, :Snail]"
+i,Lodderena pachynepion,Mx8Ngh4rvVi-TJwpEbGdrcN5Y29ycB4rvViUUJwpEbGdrcN5Y29ycA,"[:MeatFn, :Snail]"
 v,Salbohedskolan,Mx4r3np2ODTxEdqAAAAH6RYvSQ,School-AcademicOrganization
 v,22639 Nickanthony,Mx4rvVjB1JwpEbGdrcN5Y29ycA,Asteroid
 v,Harrison Brown,Mx4rvViN4ZwpEbGdrcN5Y29ycA,Physicist
