@@ -1,71 +1,600 @@
+v,Chicago,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Rambutan,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Stuart Kauffman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Vladimir Komarov,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Piquet,Mx4rv9p3wpwpEbGdrcN5Y29ycA,DevisedPracticeOrWork
+v,Southwood National Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Harvey Washington Wiley,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Warren, Arkansas",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Yuba City, California",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Beardstown, Illinois",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Alden, Kansas",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Arbutus, Maryland",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,"Freeport, Michigan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Tobacco Township, Michigan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Rifton, New York",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Älvkarleby Municipality,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Allegheny Township, Butler County, Pennsylvania",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Forks Township, Sullivan County, Pennsylvania",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Shyam Selvadurai,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Raoul Cédras,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Yōkaichiba, Chiba",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Slax,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,"Green Level, Wake County, North Carolina",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,Asclepias,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Persekutuan Pengakap Malaysia,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Room to Grow,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 v,Reykjanes,Mx4rwMsGZpwpEbGdrcN5Y29ycA,Promontory
+v,Zeev Sternhell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Piero Soderini,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Manuel Mendes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Eugene Burdick,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Sarah Kernochan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Saint Nino,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Geoff Crammond,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Augustus Ludlow,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Electric Warrior,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Dodecatheon hendersonii,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Livingston Taylor (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Aaron Brooks (American football),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dangerous Moves,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Henry Fauntleroy,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Caroni Swamp,Mx4rvVjKJ5wpEbGdrcN5Y29ycA,EcologicalRegion
+v,Pierrette Ringuette,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mark Ellis (baseball),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Tim Rogers,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dré Bly,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Super Star Wars,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Laura Flanders,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Charlton Park,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Coagulopathy,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,John Elof Boodin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Michael Avon Oeming,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Safar Al-Hawali,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+i,Marcus Gilbert,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Surojana Sethabutra,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Scene 23,Mx4rZbbuIoGbQdeH0rnP7Ube6Q,MultiIndividualAgent-Intelligent
 v,Michael Wolgemut,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Maya Plisetskaya,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Dave Bowen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Horntail,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,GE Dash 8-40B,Mx4rvZJQDJwpEbGdrcN5Y29ycA,TrainEngine
+v,B12 (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Thomas Russell (painter),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Fu Youyi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,John Patrick Amedori,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mount Asgard,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
+v,Kaori Manabe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,GCR Class 11F,Mx4rvZJQDJwpEbGdrcN5Y29ycA,TrainEngine
+v,Willie Anderson (basketball),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Tyendinaga (Mohawk) Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+v,Russell Ingall,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Harvey Wood,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,José Villarrubia,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Birkdale School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Drew Olson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Narew National Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Syöte National Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Miroslav of Croatia,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Isuzu Panther,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Wing-tsit Chan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Valerie Carter,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Shamil Sabirov,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Match (Marvel Comics),Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,Cupaniopsis,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,"Skyview High School (Nampa, Idaho)",Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Brenda Chenowith,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,Talgat Tadzhuddin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,USS Meade (DD-602),Mx4rwQCZ_pwpEbGdrcN5Y29ycA,Destroyer
+v,Levon Kirkland,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,John Torode,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"WIN 55,212-2",Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Fable II,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Myechyslaw Hryb,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,No. 695 Squadron RAF,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Mount Washburn,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
+v,Sleeping Beauty Mountain Provincial Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Alice Pieszecki,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,Kajetan Sołtyk,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Memory T cell,Mx4rvVim7ZwpEbGdrcN5Y29ycA,BiologicalLivingObject
+v,Magor services,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+v,Hoogblokland,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Betty Berzon,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Michel Garder,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mirow,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Frank Sinatra School of the Arts,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Walter W. Magee,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Norman Myers,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Asha (town),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Augustus Desiré Waller,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Kristin Kuster,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mateus Galiano da Costa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Kings and Queens (Anti-Nowhere League album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Jose Llana,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Profound Desire of the Gods,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Sidney Harman Hall,Mx4rvVigNpwpEbGdrcN5Y29ycA,HumanOccupationConstruct
 v,Jarred Moore,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Rosina Brandram,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hyundai Super Truck,Mx4rvVjUvZwpEbGdrcN5Y29ycA,SelfPoweredDevice
+v,HMCS Stadacona,Mx4rwVcw5pwpEbGdrcN5Y29ycA,Platform-Military
+v,Widows' Peak,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Knickerbocker Theatre (Broadway),Mx4rvVifNJwpEbGdrcN5Y29ycA,Theater-PhysicalStructure
+v,ANAA,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,"Troy Township, Wood County, Ohio",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Abhicharan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Montecorvino Pugliano,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Dawid Janczyk,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Rothmans Medal,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Nedumkunnam,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Paul Georges Dieulafoy,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Andy Roxburgh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Marcelo Guinle,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Terany,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Súdovce,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Robert F. Murphy (politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Chips from the Chocolate Fireball,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Suren Khachatryan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Redzone,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,King-Hooton House,Mx4rvVigNpwpEbGdrcN5Y29ycA,HumanOccupationConstruct
+v,Guillaume-Alphonse Nantel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Glenullin GAC,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Seven Storey Mountain,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Wayne Collett,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Grand Cayman Thrush,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Héroes de Otra Patria,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Preetish Nijhawan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Cirrus Minor (song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,John Celardo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Poza prawem,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Croatia women's national beach handball team,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Bactris major,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Ronald McKie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ang Mong Seng,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Abe Martin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Municipal Corporation Stadium, Kozhikode",Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
+v,Ifield Community College,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,John Selwyn (bishop),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Inches from the Mainline,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Niccolò Alunno,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Frank Westmore,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,European Humanist Federation,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Abyssinian Crimsonwing,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Jackson Horn,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Djurgårdsbrunnskanalen,Mx4rvVjzcZwpEbGdrcN5Y29ycA,Canal
+v,Wezuperbrug,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,USS Menges (DE-320),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,New Flat,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Lynsey Askew,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"ABC Cinema, Clifton",Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,Hanni Gehring,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Clara Hätzlerin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Night of the Demons 3,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Chromohalobacter beijerinckii,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
 i,Oakes Ames Memorial Hall,Mx4rv6-_j5wpEbGdrcN5Y29ycA,SpaceInAFixedHOC
+v,Paula Vesala,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Aughton, East Riding of Yorkshire",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Budvar Arena,Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
+v,Motorola MicroTAC,Mx4rvVjj6pwpEbGdrcN5Y29ycA,CellularTelephone
+v,Richard Hawkyard,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Biltmore Tower,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+v,WYCS (FM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 i,Colletotrichum crassipes,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Baum Opera House,Mx4rwQwwL5wpEbGdrcN5Y29ycA,OperaHouse
+v,The Pyx,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,KGRN,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Sarah Vogel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Igor Sklyarov,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Beyond Words,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Makoszka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Curse of the Queerwolf,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Patrick C. Caldwell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Eastern small-toothed rat,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Wafu dressing,Mx4rvViX8ZwpEbGdrcN5Y29ycA,Salad
 v,Eben Fiske Ostby,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Plectrochilus,Mx4rv4Tb5pwpEbGdrcN5Y29ycA,EdibleFish
+v,Copiapó River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,"Woodmancote, West Sussex",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Amietophrynus latifrons,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Eleutherodactylus nephophilus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Pennsylvania Route 130,Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
+v,Himalayan Woodpecker,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,108th Regiment of Foot (1794),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Gulf State Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Dulnain Bridge,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Huma Abedin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Anthurium riofrioi,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Meryta lucida,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Bob Allen (basketball),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,96th Air Division,Mx4rvViu6JwpEbGdrcN5Y29ycA,NonProfitOrganization
+v,Professional Air Traffic Controllers Organization (2003),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Carlos Carmona Bonet,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dierbach,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,WHFI,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Ivory Sully,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Mad King,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Circuit de Lorraine,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Armeesportvereinigung Vorwärts,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Hiroko Nakano,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hubert Weber,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Eijaz Khan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Kleinmond,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Versailles Saint-Quentin-en-Yvelines University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Drummoyne Oval,Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
+v,Starý Bydžov,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Dolina, Lower Silesian Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Ragnar Horn,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ustya River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,Anticomp Folkilation,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,HMS Harvester (H19),Mx4rwQCZ_pwpEbGdrcN5Y29ycA,Destroyer
+v,Alan Shackleton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Sten Hagander,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Simone Ortega,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,British Constitution Association,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,KXPN (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Kirchbach in Steiermark,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,SFRS3,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,Cabled Linear Traction,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Darren O'Neill,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Juan Schiaretti,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,NUP54,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,"Sultanabad, Karimnagar",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Jeff Staggs,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Brachymenes,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,SEPT11,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,Alf Haynes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Malwelwe,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Andy Wilson (director),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Tempel Synagogue (Lviv),Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,"Butte Township, Boyd County, Nebraska",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Alan Todd,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Truth (Cherish album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Joe Whyte,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Liazid Sandjak,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lior Shamriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,9897 Malerba,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,2885 Palva,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Utricularia lazulina,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Lorze,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,The Art Institute of Charleston,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Nida Vasiliauskaitė,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pematangpayung,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Humsafar (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,"Austin, Mississippi",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,The Best of 10cc Live,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,"Inglefield, Indiana",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,Orkounou,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Aichi Mizuho College,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Vilcún,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Philippe Koch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Thomassique,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Hina Station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
+v,Zastawek,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Seydou Koné,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Teashark,Mx4rvWN8eJwpEbGdrcN5Y29ycA,WorldWideWebClientProgram
+v,Mauro Fernández Acuña,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Kosiorów, Łódź Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Art López,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Butterfield-Whittemore House,Mx4rvVih-5wpEbGdrcN5Y29ycA,House-Modern
+v,National Lampoon Lemmings,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Agsiazan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Wang Chen (table tennis),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Łaznów-Kolonia,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Stasiówka, Podkarpackie Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Wietlin Trzeci,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Taycheedah Correctional Institution,Mx4rvViggZwpEbGdrcN5Y29ycA,ModernShelterConstruction
+v,Splinter (2008 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,W26CD,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Dream On (An Indian Lullaby),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,"F. W. Woolworth Building (Lexington, Kentucky)",Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,TV Squash,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,"Sudół, Pińczów County",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Ivan Nosenko,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Meg Taylor,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bill Ayers,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Saint Augustine School (Laredo, Texas)",Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 i,USS Shoshone (ID-1760),Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Marko Kešelj,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Anielinek,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,David D. Pearce,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Robert Stannard,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,John Montague (golfer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Appingedam railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
+v,Leo Lainer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Asmita Marwa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Enmakaje,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"BRL-15,572",Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Parks and Recreation,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Bubba Harris (baseball),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,"Signal Hill (Canton, Massachusetts)",Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Czeluścinek,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Grudzielec,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Lincoln Park High School (Lincoln Park, Michigan)",Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Rodrigo José Queiroz Chagas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Shiloh Christian School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Christian Brand,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Nucula gallinacea,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,Tim Rubink,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Denis César de Matos,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Przedmość,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Janinów, Opole Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Hiligaynon (magazine),Mx4rvViXeJwpEbGdrcN5Y29ycA,MagazineCopy
+v,Wolverine Citizen,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Artur Noga,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,J. Blaine Anderson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pucie,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Ostrzyca, West Pomeranian Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Alan Boswell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hamilton Millwright-Agent's House,Mx4rvVih-5wpEbGdrcN5Y29ycA,House-Modern
+v,Bruce Robbins,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Matador (2008 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Hyperlopha,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,2009 European Grand Prix,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 v,Marko Bošković,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Georg von Tiesenhausen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Joseph-Alcide Martin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Farhatabad,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,U23 Liège–Bastogne–Liège,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 v,Rhagoletis bezziana,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Joe Inoue,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Axel Heiberg (judge),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Gerzon Chacón,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Chār Qala,Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
 v,Allan Warren,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ya'akov Gil (politician born 1908),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Issoire APM 40 Simba,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Morley Bell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Tamiahua,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,KXI57,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Tahoranui River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,S. C. Malhan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hedzer Rijpstra,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Eriocrania alpinella,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Noriko Kijima,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Al-Hadiyah,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Poço Bonito River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,Vadim Mashkov,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Domonic Brown,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,William Thornton (rugby league),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Acta Entomologica Musei Nationalis Pragae,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Fuerza natural,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Molecular Membrane Biology,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 v,Mark Fitzloff,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,St. Raphael the Archangel Catholic Church,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,Benjamin Telem,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Jurelang Zedkaia,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ellesse,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Bill Roorbach,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Racine Rhinos,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Christine Ohlman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Ismael Quílez,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Aechmea lanata,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Giannis Gitsioudis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Portuguese Association of Theatre Critics,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Shine Tidelands State Park,Mx4rwQwoXJwpEbGdrcN5Y29ycA,WildernessPark
+v,Itapitanga,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Stór Amhrán,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Kjell Fjørtoft,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Djebahia,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Perafita,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Ponte da Palhaça,Mx4rvgD1IZwpEbGdrcN5Y29ycA,Bridge
+v,Paeonia sterniana,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Ron San Filipo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Chaa-Kholsky District,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Yussof Mahal,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Vaughan & Bushnell Manufacturing,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,John Stezaker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hyposmocoma leporella,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Thatcherina diazi,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Chryseofusus artutus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,CADIVI,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
+v,Power Gig: Rise of the SixString,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Amalda lindae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,383d Fighter Squadron,Mx4rvViu6JwpEbGdrcN5Y29ycA,NonProfitOrganization
+v,Tezanos Pinto,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Cerithium atromarginatum,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,National Route 1 (Morocco),Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
+v,Lensko,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Ibero-American Championships in Athletics,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 v,Will Smith (rugby league),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Neubürg,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
+v,Chris Lyttle,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Curtis L. Carter,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Military Road (Arlington, Virginia)",Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
+v,Gornji Petrovići,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Big Band Theory,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Biotechnology Society of Nepal,Mx4rvViu6JwpEbGdrcN5Y29ycA,NonProfitOrganization
+v,ETX Capital,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Suetambu River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,Bryllupsfotografen,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Ornitholaelaps,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,"Bethel A.M.E. Church (Columbia, South Carolina)",Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,Gudagumnal,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Harald Philipp,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Neil Farnsworth,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hormizd V,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Caloptilia eurythiota,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,Bartram de Fouchier,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Basilica of the Immaculate Conception (Waterbury, Connecticut)",Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,Rescue Point,Mx4rwMsGZpwpEbGdrcN5Y29ycA,Promontory
+v,Caloptilia eurycryptis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Chase County Junior/Senior High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Bontobahari,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Markus Wiechel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Braddell Secondary School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Yvan Erichot,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Martin Hlavačka,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Edwin Goodrich,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bob de Klerk,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Franklin and Friends,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Invesco PowerShares,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Ruth Dallas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Robert Chisholm Robertson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lirularia,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Kevin McKiernan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Junji Ito (fighter),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Teilia Quarry,Mx4rwPK1qJwpEbGdrcN5Y29ycA,Quarry
+v,Finesse (Glenn Jones album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 i,"Speed Printing (Grand Forks, North Dakota)",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,John Mazach,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Bear Lake, Rusk County, Wisconsin",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,William Maire,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Cole Walliser,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ford Taunus G93A,Mx4rvVjUvZwpEbGdrcN5Y29ycA,SelfPoweredDevice
+v,Obbolaön,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Judit Turóczy,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Bakerville, Wisconsin",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,Anna the Adventuress,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Amitifadine,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Boku Tachi no Mirai,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Markelle Martin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Stanley Cole (Australian politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Scott Bertoli,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bonchis munitalis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Bonchis scoparioides,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,John Pritchett (sound engineer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Clupeacharax anchoveoides,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Manolom Phomsouvanh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Alvah Augustus Eaton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"White City, Georgia",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
+v,"Fazelabad, Lorestan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Kaleh Ban 1,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Evangelical Church of Christ (Portsmouth, Ohio)",Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+v,Amblypneustes leucoglobus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Dream On Silly Dreamer,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Indian Expressions,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Orthodes jamaicensis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Darbahan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Waldemar Schreckenberger,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pasandarreh,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Mediak language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,"Rashvanlu, Shirvan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Pawan Negi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Henry Crosby Emery,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Phragmataecia innominata,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Hartog Hamburger,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Elizabeth Yoffe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Kathryn Johnson (field hockey Canada),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hinteregg,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
+v,Tomomi Hosoda,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,United Neighborhood Organization,Mx4rvViu6JwpEbGdrcN5Y29ycA,NonProfitOrganization
+v,Oryzias luzonensis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Mazraeh-ye Vagavdari Kahn Nazhad,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Liceo Claudio Arrau León,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Automeris duchartrei,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,"Bahtılı, Konyaaltı",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Shurok-e Hajji,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Burlesque (2010 Australian film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Leucodynerus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Nephopterix bicolorella,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Tanzania Women's Bank Limited,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Jayme Dee,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Steve Geltz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Calendar of Modern Letters,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,João André Ribeiro Vieira,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Biolan,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Salma Jayyusi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Journal of Architectural Education,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Gryllus bryanti,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Elliot Johnson (footballer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pale Fire (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Thomas Bowrey,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Indore Development Authority,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Qaleh-ye Ashna Khvor,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Carlsbergite,Mx4rvVkKBZwpEbGdrcN5Y29ycA,InorganicMaterial
+v,Usko Kemppi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,École Évangéine,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Paulette Beaudoin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Thyca nardoafrianti,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Turgut Özal University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Paul Lassenius Kramp,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Chhota Bheem Aur Hanuman,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Seyyed Morteza,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Boneh-ye Sukhteh Char,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Robert Aris Willmott,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Paul Wilson (pole vaulter),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Roger Kane,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,National Assembly,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Lac repressor,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,Dobrich Province,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Lame duck (tango),Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Model State Emergency Health Powers Act,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 v,Ste. Rose (electoral district),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Lie ring,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+v,Jamaati,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+i,Bilevel positive airway pressure,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Xenoturbella,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Haig Homes,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 i,Matthew 6:18,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Achankovil,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
 i,Bavarian dynasty,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Ipsilon Networks,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Jewish meditation,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Middletown Township Public School District,Mx4rvViPh5wpEbGdrcN5Y29ycA,SchoolDistrict
 i,"Chittenden-3-8 Vermont Representative District, 2002–2012",Mx4rvVj1yZwpEbGdrcN5Y29ycA,GroundsOfOrganization
+v,Arianites (genus),Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,North Arcot,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Honeynet Project,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,R. v. Turpin,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Horní Třešňovec,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Max Disk Formatter,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,United States House Education Subcommittee on Workforce Protections,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Pointe-Noire Bay,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
 i,Ídolos Brazil (season 1),Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,"Jefferson County, Jefferson Territory",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Toverud,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 i,Vésuviennes,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
 i,Engineering process outsourcing,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,QTS Skills Tests,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Herald and Review 100,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 i,Vann Lake and Ockley Woods,Mx4rwBcktpwpEbGdrcN5Y29ycA,DynamicIndexedInfoSource
+i,Parklands Campus,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
+v,Charles Watson Stadium,Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
+v,La morte d'Orfeo,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Chelan Seamount,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
+v,Birkerthwaite,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Ganglionic eminence,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Swim briefs,Mx4rvVkEoJwpEbGdrcN5Y29ycA,SomethingToWear
+v,Semi-steel,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,"Barney's River Station, Nova Scotia",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
 i,1907 Milan – San Remo,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
 u,Moolort railway line,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Smart Money (1986 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 i,Vitrified sand,Mx4rvViFf5wpEbGdrcN5Y29ycA,SandMob
+v,Abadia River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
+v,Lex curiata de imperio,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Leesten,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Vinište, Montana Province",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Stratford Observer,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 i,HEXACO model of personality structure,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Patoli,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 i,LineSider Technologies,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-i,2003–04 QSPHL season,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
-i,Lodderena pachynepion,Mx4rvVi9i5wpEbGdrcN5Y29ycA,Food
-i,Virtual campus,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-v,Leonard Coleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-v,Indian CSICOP,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
-i,Marcus Gilbert,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-v,Jamaati,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
-i,Bilevel positive airway pressure,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
-v,Ipsilon Networks,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-i,Parklands Campus,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
-v,Lex curiata de imperio,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
 i,Co-option (biology),Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+i,2003–04 QSPHL season,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Don Tancredo,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Harvard College v. Amory,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+i,Lodderena pachynepion,Mx4rvVi9i5wpEbGdrcN5Y29ycA,Food
+v,Salbohedskolan,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,22639 Nickanthony,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Harrison Brown,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Peter Sullivan (actor),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Tom Ridge,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+i,Virtual campus,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Borås Municipality,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Leonard Coleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Maria Edgeworth,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,"Ormonde (Cazenovia, New York)",Mx4rvVjYHpwpEbGdrcN5Y29ycA,DetachedHouse
+v,Tall Qaleh-ye Pain,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Barsal-nuna,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,WAMI (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Miyayama Station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
+v,"Wawrowice, Świętokrzyskie Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,"Daşbaşı, Agdam",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Amnon Lord,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ignatius Gabriel I Tappouni,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Art López,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Samantha Ellis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Olovozavodskoy Bridge,Mx4rvgD1IZwpEbGdrcN5Y29ycA,Bridge
+v,Indian CSICOP,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
+v,Lydia Yeamans Titus,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Stasilon,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Ukrainian Greek Orthodox Church of St. Mary (Szypentiz district),Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building

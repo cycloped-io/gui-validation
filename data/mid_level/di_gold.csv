@@ -1,57 +1,600 @@
+v,American English,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Ann Widdecombe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,AOL Instant Messenger,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Arlo Guthrie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Badminton,Mx4rv9p3wpwpEbGdrcN5Y29ycA,DevisedPracticeOrWork
+v,Blood,Mx4rvVjI8JwpEbGdrcN5Y29ycA,Blood
+v,Book of Numbers,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Baghdad,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Council of Europe,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Connecticut,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+v,Clitoris,Mx4rwQBXZpwpEbGdrcN5Y29ycA,OrganismPart
 v,Cruise (automotive),Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Dominoes,Mx4rv9p3wpwpEbGdrcN5Y29ycA,DevisedPracticeOrWork
+v,Major depressive disorder,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Diocletian,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Detroit (1920s NFL teams),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Embroidery,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic
 i,MDMA,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Fatty acid,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,Frontline (U.S. TV series),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,GNU Debugger,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
 i,Sequence,Mx4rwCrWjpwpEbGdrcN5Y29ycA,Polynucleotide
+v,Killer whale,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Koi,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Union (Hungarian-German trade union council),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Leonard Peltier,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lake Eyre,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Morocco,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Mao Zedong,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Microscopium,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Mousse,Mx4rwPqcnZwpEbGdrcN5Y29ycA,FoodComposite
+v,Nokia,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,New Zealand Defence Force,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Nuclear reactor,Mx4rwJH52JwpEbGdrcN5Y29ycA,NuclearReactor
 v,Oklahoma,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Paula Abdul,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Programmer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Porsche 924,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Ryutaro Hashimoto,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Robert Byrd (artist),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Selenium,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Saint Kitts and Nevis,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Swaziland,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Scottish Gaelic,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Saint George,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Stuart Little,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Tuvalu,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Timor Timur,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Toronto Blue Jays,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Tom Burnett,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Thermocouple,Mx4rvVjg9ZwpEbGdrcN5Y29ycA,Gauge
 i,Tsunami,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 v,United Nations General Assembly,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Uzbeks,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Vietnamese language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,V6 engine,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice
+v,Wankel engine,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice
+v,Wolfenstein 3D,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,XML,Mx4rv9h_4ZwpEbGdrcN5Y29ycA,ArtificialLanguage
+v,XFS,Mx4rwBcktpwpEbGdrcN5Y29ycA,DynamicIndexedInfoSource
+v,United Nations Conference on Trade and Development,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Telugu language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Aon Center (Los Angeles),Mx4rvVic-pwpEbGdrcN5Y29ycA,OfficeBuilding
+v,Lehigh University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Pluto,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Bari,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Brandy,Mx4rvVjIe5wpEbGdrcN5Y29ycA,AlcoholicBeverage
+v,Ionia,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Hexactinellid,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Rook (chess),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Sloop,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
+v,Georgia (country),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Walleye,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Sciaenidae,Mx4rv4Tb5pwpEbGdrcN5Y29ycA,EdibleFish
+v,Mercedes Lackey,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,David Jason,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Endometriosis,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Quinoa,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,San Antonio,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Stingray,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Friday,Mx4rvViAw5wpEbGdrcN5Y29ycA,TimeInterval
 v,Bergen,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Bangkok,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Apia,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Ulysses (spacecraft),Mx4rwVcw5pwpEbGdrcN5Y29ycA,Platform-Military
+v,The Manchurian Candidate (1962 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Peripheral,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
+v,Mordecai Richler,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Philip José Farmer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Advocate,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Cantabria,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Maine Coon,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,BlackBerry,Mx4rxBrEEqXFEd2AAABQjYGu0g,Smartphone
+v,Utah Jazz,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Metropolitan Area (France),Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 i,Henry II of France,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Tartaric acid,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,George Martin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,ESPN,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Le Duan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Autograph,Mx4rvVjNKpwpEbGdrcN5Y29ycA,Signature
+v,Shigella,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Saved by the Bell,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Milk River (Alberta–Montana),Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
 v,Wandsworth,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Graham Norton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ammonium nitrate,Mx4rodY50O0IQdadg8A6D-1gPQ,AmmoniumNitrate
+v,Balance sheet,Mx4rvVkEx5wpEbGdrcN5Y29ycA,TextualMaterial
+v,Umbrian language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Trainspotting (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 i,Pussy,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Bugle,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Grand Forks Air Force Base,Mx4rvVj1yZwpEbGdrcN5Y29ycA,GroundsOfOrganization
+v,Ghost (Dungeons & Dragons),Mx4rwOoodJwpEbGdrcN5Y29ycA,SupernaturalBeing
+v,Saint Martin,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Cardioversion,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Conlon Nancarrow,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Reindeer,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,Oran,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Insecticide,Mx4rvVkEW5wpEbGdrcN5Y29ycA,PartiallyTangibleProduct
+v,Fomalhaut,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Paul Verlaine,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,MASH (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 v,Wiktionary,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Media player (software),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Johnny Appleseed,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Handcuffs,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Kid A,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Rubella,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Bonsai,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Leica Camera,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Luxor,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Sunda Strait,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Arena,Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
+v,Interjection,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Rhombus,Mx4rvpHwrZwpEbGdrcN5Y29ycA,GeometricFigure
+v,Pomona College,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Chytridiomycota,Mx4rvVim7ZwpEbGdrcN5Y29ycA,BiologicalLivingObject
+v,The Young and the Restless,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 i,Kurgan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Turkey Vulture,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Tandberg,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Nippon Telegraph and Telephone,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,McAfee,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Vietnam,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Nakhon Ratchasima,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,United Parcel Service,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Aaron Sorkin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Inspectah Deck,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Washington Mutual,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,MacGyver,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 i,Command (military formation),Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Smew,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Alcorn State University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Septic tank,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Sleepless in Seattle,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Thysanura,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Puntland,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+v,Buttermilk,Mx4rwQCRT5wpEbGdrcN5Y29ycA,Buttermilk
+v,Pamela Sue Martin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Coconut oil,Mx4rvVibv5wpEbGdrcN5Y29ycA,VegetableOil
+v,Vincent Cassel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Areola,Mx4rwQBXZpwpEbGdrcN5Y29ycA,OrganismPart
+v,Heidi Fleiss,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Food science,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Bus station,Mx4rGyB6uGbnQdichKPFIDIErQ,BusStation
+v,Johnny English,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Northwest Conference,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Lena Horne,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Aklan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Vlissingen,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Jena Malone,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Methemoglobinemia,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 i,Ashton Kutcher,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Electric power industry,Mx4rZbbuIoGbQdeH0rnP7Ube6Q,MultiIndividualAgent-Intelligent
+v,Charlie Sheen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Canadian Airlines,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Joy Kogawa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Northern Samar,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Alice Munro,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ammonium chloride,Mx4rkPebSPwjQdaPHp1Nt5KXLA,AmmoniumChloride
+v,Daniel Shays,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Rainbow Six (novel),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,The Net (1995 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Ossetians,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Caper,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Dull day gecko,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Michelle Branch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lara Croft,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,National Forest (England),Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Cockatiel,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Goniurosaurus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Chondrodactylus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Blackburn with Darwen,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Planning (Listed Buildings and Conservation Areas) Act 1990,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Amagasaki,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Al Davis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Elizabeth Montgomery,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Forestay,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,Forester,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Frozen food,Mx4rvVi9i5wpEbGdrcN5Y29ycA,Food
+v,The Streets of San Francisco,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Bruce Greenwood,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bob Brown,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Beloit Snappers,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Yemen Arab Republic,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Triumphal arch,Mx4rwQwtQJwpEbGdrcN5Y29ycA,Monument
+v,Zabol,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Knot (mathematics),Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Faith Evans,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Grey seal,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Chinese people,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,FK Partizan,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Inter-American Development Bank,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Ebony (magazine),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Sooty Tern,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Heating oil,Mx4rvVijH5wpEbGdrcN5Y29ycA,HeatingOil
+v,Archibald Lampman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Menu,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Grangemouth,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Joe Mantegna,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Larne,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Galle,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,The Seattle Times,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Lectin,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
+v,University of Dayton,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Ticker tape parade,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Christopher Eccleston,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mikhail Tukhachevsky,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Maithili language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Atticus Ross,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Vitex agnus-castus,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Tight end,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Internal carotid artery,Mx4rwQBXZpwpEbGdrcN5Y29ycA,OrganismPart
+v,Star Fox 64,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Paul Kossoff,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Jammu (city),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Lombard language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Irish Catholic,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Synovial joint,Mx4rwQBXZpwpEbGdrcN5Y29ycA,OrganismPart
+v,Lord Frederick Windsor,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bob Weir,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,California Dreams,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Naked City (TV series),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Lara Roxx,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Coccus,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Amsterdam Admirals,Mx4rZbbuIoGbQdeH0rnP7Ube6Q,MultiIndividualAgent-Intelligent
+v,Under the Table and Dreaming,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Purr,Mx4rv4NEApwpEbGdrcN5Y29ycA,InformationBearingWavePropagation
+v,Lycoteuthidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Salima (township),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Katie Leung,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lloyd Banks,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Orlando Rays,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 v,Dungannon (Parliament of Ireland constituency),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Billy Bathgate (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,David Wu,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dongola,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Anna Stuart,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Calaverite,Mx4rvVkKBZwpEbGdrcN5Y29ycA,InorganicMaterial
+v,Spectacled Eider,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Xv (software),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Barrancabermeja,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Liquid fuel,Mx4rvVkEW5wpEbGdrcN5Y29ycA,PartiallyTangibleProduct
+v,Eyelid,Mx4rvVi4m5wpEbGdrcN5Y29ycA,Eyelid
+v,The Many Loves of Dobie Gillis,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Lauren Graham,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Anne Geddes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Provolone,Mx4rvVjOAZwpEbGdrcN5Y29ycA,Cheese
+v,Peter Cullen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pattie Boyd,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Abdominal aortic aneurysm,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Randolph Air Force Base,Mx4rvVj1yZwpEbGdrcN5Y29ycA,GroundsOfOrganization
+v,Batrachotoxin,Mx4rvVjl9JwpEbGdrcN5Y29ycA,Steroid
+v,False stag beetle,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,TetriNET,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Earth 2 (TV series),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Ford F-Series,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Sesame oil,Mx4rvVibv5wpEbGdrcN5Y29ycA,VegetableOil
+v,PPG Industries,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Myiasis,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Callum Keith Rennie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dougie Poynter,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Gomez Addams,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,Norwegian Elkhound,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Pitch (filmmaking),Mx4rvViAzZwpEbGdrcN5Y29ycA,Relation
+v,Butterfinger,Mx4rwPfsL5wpEbGdrcN5Y29ycA,Candy
+v,Medtronic,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Medicago truncatula,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Roy Buchanan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Magilligan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Qazvin,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Fergana,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 v,Carla Bruni,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Trichloroacetic acid,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,Steel mill,Mx4rwTM58JwpEbGdrcN5Y29ycA,BuildingCluster
+v,Tow truck,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Bulolo,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Sockeye salmon,Mx4rv4Tb5pwpEbGdrcN5Y29ycA,EdibleFish
+v,Mariana Mallard,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Porch,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+v,Jagdterrier,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Green Hermit,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,West Virginia Wesleyan College,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Dietrich Mateschitz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Into the West (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,North American porcupine,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Gloria Loring,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Dink Smallwood,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Mike Singletary,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hrazdan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Kupang,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,How to Deal,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Vibrionaceae,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Mardin Province,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Daktronics,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Echinocactus,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Karen McDougal,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Graciosa,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Cliff Lee,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Keith Urban,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Isidor Straus,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Alnus viridis,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Lunar craters,Mx4rwB9jEZwpEbGdrcN5Y29ycA,Crater-Lunar
+v,Dactylis,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Mannitol hexanitrate,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic
+v,Marc Singer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Asante Samuel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bay Networks,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Emmanuelle Chriqui,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,The Swarm (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Kristen Johnston,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Heosemys,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,McClellan Air Force Base,Mx4rvVj1yZwpEbGdrcN5Y29ycA,GroundsOfOrganization
+v,Pelican eel,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Abutilon menziesii,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Arkansas Tech University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Free Patriotic Movement,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Conforming loan,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 v,Benihana,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Crested Duck,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Delicate slender opossum,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Eastern equine encephalitis virus,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Boston Properties,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Lymexylidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Pyraloidea,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Bear Grylls,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Manny Ramirez,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Guarding Tess,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Abu Qir Bay,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+v,Betty Blue,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Puerto Lempira,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Mesomycetozoea,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
 i,Pentobarbital,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 i,Drugstore (band),Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Jamiat Ulema-e-Islam,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Leven Rambin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,"Montpelier (Cabin Point, Virginia)",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Agalychnis callidryas,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Kyle Richards,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Triamcinolone acetonide,Mx4rvVjl9JwpEbGdrcN5Y29ycA,Steroid
+v,Odontostomatida,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Gilly Coman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Kelly Services,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Nuapada district,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Leuchtenbergia,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 i,Haywood (band),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Medicine Hat Blue Jays,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Rauhocereus,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Myrmelachista schumanni,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Sassnitz,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Cordeauxia edulis,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Caesalpinia,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Howard Jacobson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Geelong Advertiser,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 i,Copernic,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Mendaro,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Orio,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,James Honeyman-Scott,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Vellore district,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Mertert,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Pont-Audemer Spaniel,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Canebrake tree frogs,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Anconeus muscle,Mx4rhi2cWoNwEd2AAADggVbxzQ,BiologicalTissue
+v,Capsule (pharmacy),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice
+v,1-Propanol,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,Battle of Anzen,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Maserati Khamsin,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Maserati Kyalami,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Western Chinese mountain salamander,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Oriental giant squirrel,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Acebutolol,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Yamuna Nagar district,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Lomatium,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Dibrugarh,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Richard Stallman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Melanerpes,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Ehrharta erecta,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,M30 mortar,Mx4rv4zaXJwpEbGdrcN5Y29ycA,MortarLauncher-Heavy
+v,Mitzic,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Zimmer Holdings,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Osornophryne,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Newtownhamilton,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Eplerenone,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Cornelius Eady,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ammonia borane,Mx4rvVkKBZwpEbGdrcN5Y29ycA,InorganicMaterial
+v,Diatomys,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Dipper (Chinese constellation),Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
+v,Wizards and Warriors (TV series),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 v,Destruction Derby 2,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Jamie Raskin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Naji Sabri,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Desert dace,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Kristen Cloke,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Trimethobenzamide,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 i,Spur (architecture),Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Posterior auricular vein,Mx4rwQBXZpwpEbGdrcN5Y29ycA,OrganismPart
 i,Santa Fe (nude photo book),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Culex,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Tillandsia excelsa,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Mohammad Soleimani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Uludere,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Just For Feet,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Myrmecophagidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Physical address,Mx4rvWEA25wpEbGdrcN5Y29ycA,CharacterString
+v,Litocladius,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Body louse,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Tucson (Amtrak station),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Axymyiidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Herley Industries,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Melittidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Anti-personnel mine,Mx4rvZAHzpwpEbGdrcN5Y29ycA,AntiPersonnelMine
+v,Facilitator,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Missoni,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Mong Hsat,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Pterinochilus murinus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Cholane,Mx4rvVjl9JwpEbGdrcN5Y29ycA,Steroid
+v,Haina (Haida village),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Anwar al-Awlaki,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Flagstaff (Amtrak station),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Firepower (pinball),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
 v,Magellan (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Rocky Mountain toad,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Steve Irwin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Yellow-chevroned Parakeet,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Ljungan virus,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Ravi Baswani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Leptocereus grantianus,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,SRS Labs,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Five Finger Death Punch,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Gospel (liturgy),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Maserati Indy,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Apis dorsata,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Opetiidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Westport (Metro-North station),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Carpaine,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,Gnarls Barkley,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Cliffie Stone,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Mark Chesnutt,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,VMware ESX,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Jeff Richmond,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Brachodidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Jesse Tyler Ferguson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pichia,Mx4rvVjL1ZwpEbGdrcN5Y29ycA,Yeast
+v,Tachiniscinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Biogenic sulfide corrosion,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,General partner,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 i,Administration (government),Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 i,Glenwood Springs (Amtrak station),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Yellow-cheeked gibbon,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Biology,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Pseudomonas fragi,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Eciton,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Balanidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 i,Hassanal Bolkiah,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Reinhardtia,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
 v,Kansas City (ABA),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Manx robber fly,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Strangers (2007 Israeli film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Columbia Daily Tribune,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Pseudomonas lutea,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Palaemonidae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Pseudomonas vancouverensis,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Joel Douglas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Acacia mangium,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 i,La Junta (Amtrak station),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,University of Birjand,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Synthesizer,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
+v,Encarsia formosa,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Vladimir Lenin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Volvo 850,Mx4rvVi-V5wpEbGdrcN5Y29ycA,InternalCombustionPoweredDevice
+v,Leon Thomas III,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Mamie Gummer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Hologic,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Gastrodontoidea,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Pygmy blue whale,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Mark Chen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Pratylenchus hexincisus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Echinopsis oxygona,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Cordyla haraka,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Daniellia oblonga,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Piptadenia weberbaueri,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Swartzia santanderensis,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Large-eared sheath-tailed bat,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,The Kids Are Alright (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Ricky Skaggs,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Knysna Woodpecker,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Golden-naped Woodpecker,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Louisiana pearlshell,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Chittenango ovate amber snail,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Emperoptera mirabilis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Athyrium medium,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Ilex shimeica,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Scapania sphaerifera,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Woodsia indusiosa,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Coastal minesweeper,Mx4rv3s3HZwpEbGdrcN5Y29ycA,MineCountermeasuresVessel
+v,Otto Pérez Molina,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Lisa Faulkner,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Urania sloanus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Sugarcane,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Mike McQueary,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Propiram,Mx4rvVkEW5wpEbGdrcN5Y29ycA,PartiallyTangibleProduct
+v,Cyclin E1,Mx4rvVjM3pwpEbGdrcN5Y29ycA,ProteinStuff
 i,GYKI-52895,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+v,Parsoft Interactive,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Dracocephalum rupestre,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 v,Tomb Raider (comics),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,The Script,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Tropane alkaloid,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+v,FirstMerit Corporation,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Andrias,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 v,George Bush (racing driver),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 v,Kris Jenner,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Ameles persa,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Compsomantis mindoroensis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Myrmecomantis atra,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Hoplocorypha congica,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Hoplocorypha foliata,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Sphodromantis quinquecallosa,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+v,Portfolio manager,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Bitam,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Jill Biden,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Action of 13 January 1797,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Liberalism,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Guinness,Mx4rvVjRpZwpEbGdrcN5Y29ycA,Beer
+v,Belizean people,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Table knife,Mx4rvVig-pwpEbGdrcN5Y29ycA,HandTool
+v,Stryper,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Sublime (band),Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Leava,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Wehrmacht,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Derrick Favors,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Federico Macheda,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Gwandara language,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+v,Tofu,Mx4rwPqcnZwpEbGdrcN5Y29ycA,FoodComposite
+v,Cunnilingus,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
+v,Dreama Walker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Cory Gunz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Grace Hightower,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Vientiane,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Maldivians,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Olivia Chow,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Louis Valtat,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Robert Pattinson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Chryseobacterium,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
+v,Hot Chelle Rae,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+v,Spermatophyte,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Powerwave Technologies,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,JAPEX,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
+v,Dinner for Schmucks,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+v,Madden NFL 11,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Tegucigalpa,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Greta Gerwig,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Barun Sobti,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,René Audran,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Adrienne Maloof,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Clans (video game),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Spinal stenosis,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+v,Pakistan Today,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
+v,Organist,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Garcinia indica,Mx4rvVjPdZwpEbGdrcN5Y29ycA,Tree-ThePlant
+v,Dicerandra christmanii,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Fateh Oil Field,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+v,Erigeron rhizomatus,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Hypericum cumulicola,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+v,Arab-Berber,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Plantago hawaiensis,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 i,"Elmhurst (Caldwell, West Virginia)",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+v,Diggy Simmons,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
+v,Diglyceride,Mx4rTBMGBJB0Qe6ngBDtrRAi6w,Diglyceride
 i,Granada (Albéniz),Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 i,Paranoia (Hermans book),Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
+v,Informix Corporation,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 i,MODE (magazine),Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
+v,Arthur (Ghosts 'n Goblins),Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
+v,Wasbir Hussain,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Light aircraft carrier,Mx4rwQCZhZwpEbGdrcN5Y29ycA,AircraftCarrier
+v,Political officer (British Empire),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+v,Acacia catechu,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 i,Kickboxing,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-v,Advocate,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
