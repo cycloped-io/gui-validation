@@ -1,0 +1,60 @@
+<head>
+<style>
+table.buttons tr td {
+  text-align:center;
+}
+.button {
+height:50px; 
+width:100%;
+font-weight:bold;
+}
+.red {
+background: red;
+}
+.green {
+background: green;
+}
+.yellow {
+background: yellow;
+}
+</style>
+</head>
+<table width="100%" class="buttons">
+  <tr>
+    <td>
+      <% if counter > 0 %>
+          <form action="/<%= counter - 1 %>">
+            <button class="button">&laquo;</button>
+          </form>
+      <% end %>
+    </td>
+    <td>
+      <form action="/v/<%= counter %>" method="post">
+        <button class="button green">Valid</button>
+      </form>
+    </td>
+
+    <td>
+      <form action="/set/<%= counter %>" method="post">
+        <input type="text" name="cyc_name" style="width: 70%; height: 50px;">
+        <input type="submit" value="Set" style="width: 20%; height: 50px;">
+      </form>
+    </td>
+    <td>
+      <% if counter < 599 %>
+          <form action="/<%= counter + 1 %>">
+            <button class="button">&raquo;</button>
+          </form>
+      <% end %>
+    </td>
+  </tr>
+</table>
+<hr>
+<table width="100%">
+  <tr>
+    <td style="text-align:center" width="50%"><h1><%= wiki %></h1></td>
+    <td style="text-align:center" width="50%"><h1><%= cyc %></h1></td>
+  </tr>
+</table>
+<iframe src="<%= wiki_url %>" align="left" height="80%" width="48%"></iframe>
+<iframe src="<%= cyc_url %>" align="right" height="80%" width="48%"></iframe>
