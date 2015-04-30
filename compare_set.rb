@@ -59,7 +59,7 @@ get '/:id' do
     wiki1, cyc1, cyc_name1 = user1[index]
     wiki2, cyc2, cyc_name2 = user2[index]
 
-    wiki_url = 'http://en.wikipedia.org/wiki/'+wiki1
+    wiki_url = 'http://en.wikipedia.org/wiki/Category:'+wiki1
     cyc_url1 = 'http://sw.opencyc.org/concept/'+cyc1
     cyc_url2 = 'http://sw.opencyc.org/concept/'+cyc2
 
