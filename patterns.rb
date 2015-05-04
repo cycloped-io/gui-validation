@@ -35,7 +35,7 @@ get '/:id' do
     pattern, support, *categories = selected[counter]
     #wiki_url = 'http://en.wikipedia.org/wiki/'+wiki
     #cyc_url = 'http://sw.opencyc.org/concept/'+cyc
-    erb :compound, :locals => {:pattern => pattern, :support => support.to_i, :categories => categories, :counter => counter}
+    erb :patterns, :locals => {:pattern => pattern, :support => support.to_i, :categories => categories, :counter => counter}
   else
     erb :finish
   end
