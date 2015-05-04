@@ -1,0 +1,68 @@
+<head>
+<style>
+table.buttons tr td {
+  text-align:center;
+}
+.button {
+height:50px; 
+width:100%;
+font-weight:bold;
+}
+.red {
+background: red;
+}
+.green {
+background: green;
+}
+.yellow {
+background: yellow;
+}
+ul {
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+}
+</style>
+</head>
+<table width="100%" class="buttons">
+  <tr>
+    <td>
+      <% if counter > 0 %>
+      <form action="/<%= counter - 1 %>">
+        <button class="button">&laquo;</button>
+      </form>
+      <% end %>
+    </td>
+    <td>
+      <form action="/v/<%= counter %>" method="post">
+        <button class="button green">Valid</button>
+      </form>
+    </td>
+    <td>
+      <form action="/i/<%= counter %>" method="post">
+        <button class="button red">Invalid</button>
+      </form>
+    </td>
+    <td>
+      <form action="/u/<%= counter %>" method="post">
+        <button class="button yellow">Unsure</button>
+      </form>
+    </td>
+    <td>
+      <% if counter < 599 %>
+      <form action="/<%= counter + 1 %>">
+        <button class="button">&raquo;</button>
+      </form>
+      <% end %>
+    </td>
+  </tr>
+</table>
+<hr>
+
+<h1><%= pattern %> - <%= support %></h1>
+
+<ul>
+<% categories.sort.each do |category| %>
+    <li><a href="http://en.wikipedia.org/wiki/Category:<%= category.gsub(' ', '_') %>"><%= category %></a></li>
+<% end %>
+</ul>
