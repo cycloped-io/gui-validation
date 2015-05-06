@@ -5,7 +5,7 @@ require 'slop'
 require 'cycr'
 require 'mapping'
 
-input_path = ENV['INPUT_PATH'] || 'data/patterns/with_examples_and_maping.csv'
+input_path = ENV['INPUT_PATH'] || 'data/patterns/with_examples_and_maping_sorted.csv'
 output_path = ENV['OUTPUT_PATH'] || input_path+'.out'
 
 cyc = Cyc::Client.new(cache: true, host: 'localhost', port: 3601)
