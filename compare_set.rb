@@ -5,8 +5,8 @@ require 'slop'
 require 'cycr'
 require 'mapping'
 
-input1_path = ENV['INPUT_1_PATH'] || 'data/categories_validated_1.csv'
-input2_path = ENV['INPUT_2_PATH'] || 'data/categories_validated_2.csv'
+input1_path = ENV['INPUT_1_PATH'] || 'data/categories/categories_validated_1.csv'
+input2_path = ENV['INPUT_2_PATH'] || 'data/categories/categories_validated_2.csv'
 output_path = ENV['OUTPUT_PATH'] || input1_path+'.out'
 
 cyc = Cyc::Client.new(cache: true, host: 'localhost', port: 3601)
@@ -38,7 +38,7 @@ user1.each_with_index do |row, index|
   if user2[index][1]!=row[1]
     selected << index
   else
-    output << row[1..3]
+    output << row[0..2]
   end
 
 end
