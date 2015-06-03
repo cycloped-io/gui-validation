@@ -5,7 +5,7 @@ GIT
     progress (3.0.0)
 
 PATH
-  remote: ../cycloped-io/category-mapping
+  remote: ../cycloped-io/cycloped-io/category-mapping
   specs:
     cyc-mapping (0.1.0)
       colors
@@ -50,7 +50,7 @@ GEM
     rack (1.6.0)
     rack-protection (1.5.3)
       rack
-    rdf (1.1.11)
+    rdf (1.1.13)
       link_header (~> 0.0, >= 0.0.8)
     ref (1.0.5)
     rod (0.7.2.6)
