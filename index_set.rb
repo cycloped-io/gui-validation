@@ -7,6 +7,7 @@ require 'mapping'
 
 input_path = ENV['INPUT_PATH'] || 'data/not_valid_regular.csv'
 output_path = ENV['OUTPUT_PATH'] || input_path+'.out'
+prefix = ENV['ARTICLE_PREFIX'] || ''
 
 cyc = Cyc::Client.new(cache: true, host: 'localhost', port: 3601)
 name_service = Mapping::Service::CycNameService.new(cyc)
@@ -38,9 +39,9 @@ get '/:id' do
   counter = params[:id].to_i
   if counter<selected.size then
     wiki, cyc_id, cyc_name = selected[counter]
-    wiki_url = 'http://en.wikipedia.org/wiki/Category:'+wiki
+    wiki_url = "http://en.wikipedia.org/wiki/#{prefix}#{wiki}"
     if !cyc_name.nil?
-      cyc_url = 'http://sw.opencyc.org/concept/'+cyc_id
+      cyc_url = "http://sw.opencyc.org/concept/#{cyc_id}"
     else
       cyc_url = 'http://sw.opencyc.org/'
     end
