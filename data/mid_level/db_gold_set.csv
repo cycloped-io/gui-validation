@@ -81,12 +81,12 @@ Plummer (crater),Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
 Chester Conklin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tramoyes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Anbe Sivam,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Siege of Turin,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Siege of Turin,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Maniwaki Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 Jerzy Brzęczek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mariam-uz-Zamani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WQKE,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Steyr MPi 69,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Steyr MPi 69,Mx4rvVigDpwpEbGdrcN5Y29ycA,Gun-Portable
 Peramivir,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Dudley Williams (judge),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Getting in Tune,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -118,7 +118,7 @@ Trakia motorway,Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
 Rowing at the 1908 Summer Olympics – Men's single sculls,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 SS Home,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
 2nd Queen Victoria's Own Rajput Light Infantry,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Bank of Mauritius Tower,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+Bank of Mauritius Tower,Mx4rvVic-pwpEbGdrcN5Y29ycA,OfficeBuilding
 Catalogue (Moloko album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Microdontinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 High Fläming Nature Park,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
@@ -162,7 +162,7 @@ Komorní Lhotka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Special Agent (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Banksia anatona,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 The Adventures of Buratino (1959 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Battle of Qurna,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Battle of Qurna,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Nikola Kavaja,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Fontolizumab,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Robert H. Kittleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -214,9 +214,9 @@ Merstone railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 José Tomás Errázuriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Carolliinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michele Florindo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Greg Norman Holden International,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Greg Norman Holden International,Mx4rvvTIC5wpEbGdrcN5Y29ycA,GolfTournament
 Tennard v. Dretke,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-Vidhwansak,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Vidhwansak,Mx4rvVigDpwpEbGdrcN5Y29ycA,Gun-Portable
 Frank Posegate,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arne Lyngstad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James D. Brubaker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -232,7 +232,7 @@ Jan Wohlschlag,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Respect (Diana King album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Carpathia – A Dramatic Poem,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 If (Mindless Self Indulgence album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Millennium Centre (Chicago),Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+Millennium Centre (Chicago),Mx4rvVic-pwpEbGdrcN5Y29ycA,OfficeBuilding
 Gmina Jeżewo,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 KRSV (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Tallman Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
@@ -297,7 +297,7 @@ Euler D.I,Mx4rvVjUvZwpEbGdrcN5Y29ycA,SelfPoweredDevice
 Gündüzqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Kemrakuch,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Babagil,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-"California State Assembly elections, 1994",Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+"California State Assembly elections, 1994",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Çalxanqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Ryczki, Gmina Harasiuki",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 John Tidmarsh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -530,7 +530,7 @@ Jaime Enrique Duque Correa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 GoAnimate,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Dead Boots,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Murphy Army Hospital,Mx4rvVjptJwpEbGdrcN5Y29ycA,HospitalBuilding
-1973 Aryamehr Cup,Mx4rwOI75pwpEbGdrcN5Y29ycA,Tournament
+1973 Aryamehr Cup,Mx4rv0ThwJwpEbGdrcN5Y29ycA,TennisTournament
 Frame Cottage,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 Sri Valli,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Villa de Soto Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"

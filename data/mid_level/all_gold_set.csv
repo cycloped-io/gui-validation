@@ -40,7 +40,7 @@ Sujata Manohar,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 An Occurrence at Owl Creek Bridge (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Aftershock: Earthquake in New York,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 La Salle College,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
-Dirty Pair,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Dirty Pair,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 Mitică Pricop,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Nicholas Morello,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tazo,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
@@ -258,7 +258,7 @@ Hristoforos Hoidis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Kandisa (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 A Stab in the Dark (play),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Paul Steel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Nakkna,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Nakkna,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 The Island (2005 novel),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 GoLite,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Abdelmalek Mokdad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -410,7 +410,7 @@ Virpi Hämeen-Anttila,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Honda RS125,Mx4rvVjUvZwpEbGdrcN5Y29ycA,SelfPoweredDevice
 Ibrahim Spahic,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Francis N. Bangs,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"George Brown, Class Clown",Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+"George Brown, Class Clown",Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 August Saabye,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 George A. Freedman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mayu Watanabe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -452,9 +452,9 @@ Stefan Gössling,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Pierre Lorange,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Australia national roller hockey team,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Ernest Race,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Dreamz Unlimited,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Dreamz Unlimited,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Vlasta Depetrisová,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-TÅGAB,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+TÅGAB,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Bill Hockin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Murray Feingold,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Love, Elections & Chocolate",Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
@@ -708,7 +708,7 @@ Vilém Blodek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 George W. Jenkins,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Portuguese Maximalist Federation,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Terry Schoonover,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Mogollon Mountains,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+Mogollon Mountains,Mx4rvVjlL5wpEbGdrcN5Y29ycA,MountainRange
 Frank Doubleday (actor),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Les Tavernes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 L. Harry Waidner,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -787,7 +787,7 @@ Oita Miyoshi Weisse Adler,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 "Trans, Switzerland",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Pablo Correa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 John Feikens,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-West Potrillo Mountains,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
+West Potrillo Mountains,Mx4rvVjlL5wpEbGdrcN5Y29ycA,MountainRange
 Cluj-Napoca Romanian National Opera,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 1988 United States motorcycle Grand Prix,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 I-10 High Rise Bridge,Mx4rvgD1IZwpEbGdrcN5Y29ycA,Bridge
@@ -1281,12 +1281,12 @@ Plummer (crater),Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
 Chester Conklin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tramoyes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Anbe Sivam,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Siege of Turin,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Siege of Turin,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Maniwaki Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 Jerzy Brzęczek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mariam-uz-Zamani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WQKE,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Steyr MPi 69,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Steyr MPi 69,Mx4rvVigDpwpEbGdrcN5Y29ycA,Gun-Portable
 Peramivir,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Dudley Williams (judge),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Getting in Tune,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -1318,7 +1318,7 @@ Trakia motorway,Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
 Rowing at the 1908 Summer Olympics – Men's single sculls,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 SS Home,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
 2nd Queen Victoria's Own Rajput Light Infantry,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Bank of Mauritius Tower,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+Bank of Mauritius Tower,Mx4rvVic-pwpEbGdrcN5Y29ycA,OfficeBuilding
 Catalogue (Moloko album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Microdontinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 High Fläming Nature Park,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
@@ -1362,7 +1362,7 @@ Komorní Lhotka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Special Agent (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Banksia anatona,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 The Adventures of Buratino (1959 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Battle of Qurna,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Battle of Qurna,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Nikola Kavaja,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Fontolizumab,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Robert H. Kittleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -1414,9 +1414,9 @@ Merstone railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 José Tomás Errázuriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Carolliinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michele Florindo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Greg Norman Holden International,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Greg Norman Holden International,Mx4rvvTIC5wpEbGdrcN5Y29ycA,GolfTournament
 Tennard v. Dretke,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-Vidhwansak,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Vidhwansak,Mx4rvVigDpwpEbGdrcN5Y29ycA,Gun-Portable
 Frank Posegate,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arne Lyngstad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James D. Brubaker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -1432,7 +1432,7 @@ Jan Wohlschlag,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Respect (Diana King album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Carpathia – A Dramatic Poem,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 If (Mindless Self Indulgence album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Millennium Centre (Chicago),Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
+Millennium Centre (Chicago),Mx4rvVic-pwpEbGdrcN5Y29ycA,OfficeBuilding
 Gmina Jeżewo,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 KRSV (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Tallman Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
@@ -1497,7 +1497,7 @@ Euler D.I,Mx4rvVjUvZwpEbGdrcN5Y29ycA,SelfPoweredDevice
 Gündüzqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Kemrakuch,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Babagil,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-"California State Assembly elections, 1994",Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+"California State Assembly elections, 1994",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Çalxanqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Ryczki, Gmina Harasiuki",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 John Tidmarsh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -1730,7 +1730,7 @@ Jaime Enrique Duque Correa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 GoAnimate,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Dead Boots,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Murphy Army Hospital,Mx4rvVjptJwpEbGdrcN5Y29ycA,HospitalBuilding
-1973 Aryamehr Cup,Mx4rwOI75pwpEbGdrcN5Y29ycA,Tournament
+1973 Aryamehr Cup,Mx4rv0ThwJwpEbGdrcN5Y29ycA,TennisTournament
 Frame Cottage,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 Sri Valli,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Villa de Soto Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
@@ -3007,7 +3007,7 @@ Hubei,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Fruitdale, South Dakota",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mudbrick,Mx4rvVj-spwpEbGdrcN5Y29ycA,Brick
 Clare Boothe Luce,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-ORWO,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+ORWO,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Rio Grande Games,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Lena Horne,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Leopold Gmelin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -3026,7 +3026,7 @@ A Good School,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Lōʻihi Seamount,Mx4rvVkKUJwpEbGdrcN5Y29ycA,Volcano
 Siobhan Creaton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 I Spit on Your Grave,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Bigelow Aerospace,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Bigelow Aerospace,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Omar Ali Saifuddien III,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 A+ (programming language),Mx4rv9h_4ZwpEbGdrcN5Y29ycA,ArtificialLanguage
 La Crosse encephalitis,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
@@ -3329,7 +3329,7 @@ Guatemala national futsal team,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Bardol,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Olinalá,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Wolfgang Brinkmann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Taiwan Nougat Museum,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Taiwan Nougat Museum,Mx4rvViggZwpEbGdrcN5Y29ycA,ModernShelterConstruction
 Jerzy Putrament,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Operation Geranium,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 San Pedro Jácuaro,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
@@ -3389,7 +3389,7 @@ Damien Le Tallec,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 John Mason (historian),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Northern Cyprus parliamentary election, 2003",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Gregor Duncan (artist),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-National History Museum of Moldova,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+National History Museum of Moldova,Mx4rvViggZwpEbGdrcN5Y29ycA,ModernShelterConstruction
 Denson Devadas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Minuscule 580,Mx4rvVkEx5wpEbGdrcN5Y29ycA,TextualMaterial
 It's Called Life,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -3448,7 +3448,7 @@ Red Eclipse,Mx4rv9p3wpwpEbGdrcN5Y29ycA,DevisedPracticeOrWork
 Farhat Hotel,Mx4rvViIe5wpEbGdrcN5Y29ycA,HotelBuilding
 Galoot,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 347th Fighter Squadron,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Al-Qudaibiya Palace,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Al-Qudaibiya Palace,Mx4rvVjYHpwpEbGdrcN5Y29ycA,DetachedHouse
 Rob Heeney,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Johann Otto von Gemmingen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Haji Laq Laq,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -3515,7 +3515,7 @@ Justin Ernest,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Sangdan,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Maranda High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Bit Agusi,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Blue Water Trucking,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Blue Water Trucking,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Connor Hurley,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 2023 Cricket World Cup,Mx4r8WKTYg5tEd6AAAAhm0QbaA,MultiSportsEventSportsCompetition
 Cape Chukotsky,Mx4rwMsGZpwpEbGdrcN5Y29ycA,Promontory
