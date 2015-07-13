@@ -81,12 +81,12 @@ Plummer (crater),Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y
 Chester Conklin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tramoyes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Anbe Sivam,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Siege of Turin,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Siege of Turin,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Maniwaki Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Jerzy Brzęczek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mariam-uz-Zamani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WQKE,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Steyr MPi 69,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Steyr MPi 69,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
 Peramivir,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Dudley Williams (judge),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Getting in Tune,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -162,7 +162,7 @@ Komorní Lhotka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Special Agent (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Banksia anatona,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 The Adventures of Buratino (1959 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Battle of Qurna,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Battle of Qurna,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Nikola Kavaja,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Fontolizumab,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Robert H. Kittleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -214,9 +214,9 @@ Merstone railway station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVj
 José Tomás Errázuriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Carolliinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michele Florindo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Greg Norman Holden International,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+Greg Norman Holden International,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Tennard v. Dretke,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-Vidhwansak,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
+Vidhwansak,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
 Frank Posegate,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arne Lyngstad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James D. Brubaker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -297,7 +297,7 @@ Euler D.I,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,T
 Gündüzqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Kemrakuch,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Babagil,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-"California State Assembly elections, 1994",Mx4rvViADZwpEbGdrcN5Y29ycA,Event
+"California State Assembly elections, 1994",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Çalxanqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Ryczki, Gmina Harasiuki",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 John Tidmarsh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person

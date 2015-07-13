@@ -40,7 +40,7 @@ Sujata Manohar,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 An Occurrence at Owl Creek Bridge (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Aftershock: Earthquake in New York,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 La Salle College,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
-Dirty Pair,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Dirty Pair,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 Mitică Pricop,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Nicholas Morello,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tazo,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
@@ -258,7 +258,7 @@ Hristoforos Hoidis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Kandisa (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 A Stab in the Dark (play),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Paul Steel,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Nakkna,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Nakkna,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 The Island (2005 novel),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 GoLite,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Abdelmalek Mokdad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -410,7 +410,7 @@ Virpi Hämeen-Anttila,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Honda RS125,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Ibrahim Spahic,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Francis N. Bangs,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"George Brown, Class Clown",Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+"George Brown, Class Clown",Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 August Saabye,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 George A. Freedman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mayu Watanabe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -452,9 +452,9 @@ Stefan Gössling,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Pierre Lorange,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Australia national roller hockey team,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Ernest Race,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Dreamz Unlimited,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+Dreamz Unlimited,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Vlasta Depetrisová,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-TÅGAB,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
+TÅGAB,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Bill Hockin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Murray Feingold,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Love, Elections & Chocolate",Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
