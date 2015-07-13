@@ -9,7 +9,7 @@ Coramae Richey Mann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Kent County, New Brunswick",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Ian Watt,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Gustave Courbet,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Mister Peepers,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Mister Peepers,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 William McGuigan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 William Paterson University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Scott McCloud,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -26,7 +26,7 @@ Steinunn Sigurðardóttir,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Guimarei,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 South Darfur,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Ati, Chad",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-USS Experiment (1832),Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+USS Experiment (1832),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 William Russell (actor),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Gen Re,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Thilina Kandamby,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -50,7 +50,7 @@ McCormick Theological Seminary,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Barbara Barrie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Petrea Burchard,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Eno River,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
-Peacock bass,Mx4rvVjfU5wpEbGdrcN5Y29ycA,Fish
+Peacock bass,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Crociati Parma Rugby FC,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Rednex,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Mia De Vits,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -58,54 +58,50 @@ Evander M. Law,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Empress Wei Zifu,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Bradespar,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Battle of Jumonville Glen,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
-USS Stevens (DD-479),Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+USS Stevens (DD-479),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Tim Noakes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Nobber,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Sidibe Korian Sidibe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Zaynab bint Ali,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Dwight Johnson (politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Dietrich Heinrich von Bülow,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-All I've Got to Do,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+All I've Got to Do,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 C. Turner Joy,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Maudsley Hospital,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Kelly Nichols,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Thomas Berry,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 To My Surprise,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 1982 FIFA World Cup qualification,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-Transition Magazine,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork
+Transition Magazine,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 "William Grenfell, 1st Baron Desborough",Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Pisa Tinoisamoa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Janie Fricke,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Mechanicsburg, West Virginia",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-"Campsie, New South Wales",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Sam Smith (DJ),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Plummer (crater),Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Chester Conklin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tramoyes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Anbe Sivam,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Anbe Sivam,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Siege of Turin,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 Maniwaki Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Jerzy Brzęczek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mariam-uz-Zamani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Lillis, Kansas",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 WQKE,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Steyr MPi 69,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
 Peramivir,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Dudley Williams (judge),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Getting in Tune,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Getting in Tune,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Ziva David,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
-Children of the Black Sun,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Children of the Black Sun,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Stefan Maierhofer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Asa Fowler,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Alexander Masters,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Sysinternals,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Lance Hooper,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Great Sankey High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-"David, Kentucky",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Patsy O'Hara,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 KLEI-TV,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Chris Morton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Carnival Miracle,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+Carnival Miracle,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Ian Westwood,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Goldsberry Track,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Myōshin-ji,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
@@ -120,16 +116,15 @@ Vladimir Artemyev,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Redwood City Daily News,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 Trakia motorway,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Rowing at the 1908 Summer Olympics – Men's single sculls,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
-SS Home,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+SS Home,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 2nd Queen Victoria's Own Rajput Light Infantry,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Bank of Mauritius Tower,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Catalogue (Moloko album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Microdontinae,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Catalogue (Moloko album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Microdontinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 High Fläming Nature Park,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 "Windsor, Quebec",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Walther Eichrodt,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arkadiusz Rybicki,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Romilly, Vale of Glamorgan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 2 Bit Pie,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 King of Thorn,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 Gold(I) chloride,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
@@ -142,51 +137,49 @@ Santa Margarida da Coutada,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Naomi Kawashima,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lady Frances Brudenell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 George W. Fulton Mansion,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Secret Society (album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Secret Society (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Bertha Brouwer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Chuxiong City,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Superman (TV series),Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Superman (TV series),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 George Brown (footballer born 1903),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Joe Erskine (Welsh boxer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Marcia Angell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Inta Kļimoviča,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lisa Burke,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-HMS Anson (1781),Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+HMS Anson (1781),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Hi-Point C-9 and C-9 Comp,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
-You Can't Always Tell,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
-Lady Samantha,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-The Blind Side: Evolution of a Game,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork
+You Can't Always Tell,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Lady Samantha,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+The Blind Side: Evolution of a Game,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Carl Heggs,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Crossroads Center (Waterloo, IA)",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Dunraven Pass,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
-Analytical Abstracts,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork
+Analytical Abstracts,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 "Green Run, Virginia",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 SFC Opava,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 "Peter Oliver, Baron Oliver of Aylmerton",Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Komorní Lhotka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Special Agent (album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Special Agent (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Banksia anatona,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
-The Adventures of Buratino (1959 film),Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+The Adventures of Buratino (1959 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Battle of Qurna,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 Nikola Kavaja,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Fontolizumab,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Robert H. Kittleman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-The Road of Tears,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+The Road of Tears,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Sister Philippa Brazill,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Encholirium,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 Adrian Littlejohn,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Manukau Institute of Technology,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Mano Destra,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Austrian Hockey League,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Stanley Aborah (footballer born 1969),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 New Riegel High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Francis Devaney,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lina Teoh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Highbury, South Australia",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Lotfi Nasib,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Leslie Joseph Hooker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Ian Dingman (lacrosse),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-The Seaside (album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+The Seaside (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Oidium manihotis,Mx4rvVim7ZwpEbGdrcN5Y29ycA,BiologicalLivingObject
 Peleg Tallman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Daniel Bruce (baseball),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -199,28 +192,27 @@ Ulley Reservoir,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y2
 "Long Branch Township, Saline County, Illinois",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Benji Village,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Lecythis barnebyi,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
-Tourmaline Sunangel,Mx4rvVi8SJwpEbGdrcN5Y29ycA,Bird
-HMS Port Napier,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
-Podocarpus henkelii,Mx4rwP3jAZwpEbGdrcN5Y29ycA,Plant-Woody
-Mountain Mouse-warbler,Mx4rvVi8SJwpEbGdrcN5Y29ycA,Bird
-Northern three-toed jerboa,Mx4rvVimKJwpEbGdrcN5Y29ycA,Mammal
+Tourmaline Sunangel,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+HMS Port Napier,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+Podocarpus henkelii,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
+Mountain Mouse-warbler,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+Northern three-toed jerboa,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Chickasaw State Park (Alabama),Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Sarah Shannon,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Podriga River,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
-Leucorrhinia albifrons,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
-Onconotus,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Leucorrhinia albifrons,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+Onconotus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 "Franklin, Sacramento County, California",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Goești River,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Gomphia serrata,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 Tylophora urceolata,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
-Sikhism in Australia,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Villabaruz de Campos,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Râul Alb (Strei),Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Marco Bjurström,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James B. Clark (Canadian politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Merstone railway station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 José Tomás Errázuriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Carolliinae,Mx4rvVimKJwpEbGdrcN5Y29ycA,Mammal
+Carolliinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michele Florindo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Greg Norman Holden International,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 Tennard v. Dretke,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
@@ -228,31 +220,29 @@ Vidhwansak,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
 Frank Posegate,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arne Lyngstad,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James D. Brubaker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Mariah Hill, Indiana",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-2008 Colorado Crush season,Mx4rvrOVYpwpEbGdrcN5Y29ycA,PurposefulPhysicalAction
-The Week (Indian magazine),Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+2008 Colorado Crush season,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Robert Veyron-Lacroix,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Ghiran,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Harry Stiff,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Asythosia,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Asythosia,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Nenad Grozdić,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 August Dieckmann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Jan Wohlschlag,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Șimon River,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
-Respect (Diana King album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Carpathia – A Dramatic Poem,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-If (Mindless Self Indulgence album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Respect (Diana King album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Carpathia – A Dramatic Poem,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+If (Mindless Self Indulgence album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Millennium Centre (Chicago),Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Gmina Jeżewo,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 KRSV (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Tallman Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-GRIK5,Mx4rvViRapwpEbGdrcN5Y29ycA,ChemicalObject,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
+GRIK5,Mx4rvViRapwpEbGdrcN5Y29ycA,ChemicalObject,Mx4rvVkI75wpEbGdrcN5Y29ycA,EdibleStuff,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
 Gmina Mieścisko,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Suzanne van Veen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Julian Davis,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Manvel Gasratian,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WHDD-FM,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Fairchild KR-34,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+Fairchild KR-34,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Mary S. Hartman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Saulcy, Aube",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Mellé, Ille-et-Vilaine",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -262,11 +252,11 @@ Saint-Sulpice-le-Guérétois,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Gurdon Wattles,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Ulrich Herbert,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Saint-Quirin,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Hello Afrika (song),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Hello Afrika (song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Sigalens,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Cirfontaines-en-Azois,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Viry, Haute-Savoie",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Yeti: Curse of the Snow Demon,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Yeti: Curse of the Snow Demon,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Queensland Academy for Creative Industries,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Tengiz Khubuluri,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Chiddes, Saône-et-Loire",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -277,10 +267,10 @@ Senecio brasiliensis,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 Gordon Dahlquist,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Melmalayanur,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 4055 Magellan,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
-The Wrecking Crew (2008 film),Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+The Wrecking Crew (2008 film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 The News Today (Iloilo),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
-"Chet, Floyd & Danny",Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Maestro (video game),Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+"Chet, Floyd & Danny",Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Maestro (video game),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Wilhelm Arwe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Carl Gunnarsson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Esek Hopkins House,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
@@ -294,18 +284,16 @@ Jock Menefee,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 John L. Buono,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Tabuan-Lasa, Basilan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 William McKenzie Thomson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-2003 Jacksonville Jaguars season,Mx4rvrOVYpwpEbGdrcN5Y29ycA,PurposefulPhysicalAction
-"Seventh Ward, New Orleans",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+2003 Jacksonville Jaguars season,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 "First Church of Christ, Scientist (Neillsville, Wisconsin)",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 David Lester Richardson,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 T.O.P (entertainer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Hasmukhbhai Parekh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WHBN,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Congregation Beth Israel (Milwaukee),Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Epaphrodita lobivertex,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
-Blue Jeans (1920s song),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Euler D.I,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
-"Sunfish, Kentucky",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+Epaphrodita lobivertex,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+Blue Jeans (1920s song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Euler D.I,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Gündüzqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Kemrakuch,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Babagil,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -313,7 +301,7 @@ Babagil,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Çalxanqala,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Ryczki, Gmina Harasiuki",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 John Tidmarsh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Udea olivalis,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Udea olivalis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Khaskarkado,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Travis Phelps,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Ernesto Duchini,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -330,11 +318,10 @@ Stanley B. Kimball,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Sino Hotels,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Harald Damsleth,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Larkin's Hundred,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-St. Francis Xavier Church and Newtown Manor House Historic District,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Mankara,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Albiglutide,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Stellwagen,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
-Robin ATL,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+Robin ATL,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Pahor Labib,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Walter Meheula Heen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Milić Jovanović,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -347,22 +334,21 @@ Wola Piekarska,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Gerard Stokes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Nandini Sahai,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 John Brown (Cherokee chief),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Mario & Sonic at the Olympic Winter Games,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
-Sascha ...ein aufrechter Deutscher,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Mario & Sonic at the Olympic Winter Games,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+Sascha ...ein aufrechter Deutscher,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Spit Stix,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Stanisławy,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Charles N. Clevert Jr.,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Kosinek,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Piaseczno, Drawsko County",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mercer Bears,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-See the Light (The Hours album),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Eumicremma,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
-Lush House,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+See the Light (The Hours album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Eumicremma,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+Lush House,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 Marcelinho Huertas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Spring Creek Dam,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 Catlin Adams,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Richman Chemical,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
-Kono Yo no Kagiri,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Kono Yo no Kagiri,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 "Nore, Sweden",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Dedé Santana,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lee Frischknecht,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -371,57 +357,54 @@ Richard C. Powell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Heston Aircraft Company,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Yialia,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 5th Air Corps (Germany),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Agriomyia,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Agriomyia,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Yves Mourousi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 South Mayo River,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Cross River (Little Fork River),Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Žehuň,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Samjeon Station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-1973 Ottawa Rough Riders season,Mx4rvrOVYpwpEbGdrcN5Y29ycA,PurposefulPhysicalAction
+1973 Ottawa Rough Riders season,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Kocbeře,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Kenny Starr,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Werner Schwier,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 A.J. Saudin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Okanoue Kikue,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Where Time Stood Still,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
-Trapezites lutea,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Where Time Stood Still,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+Trapezites lutea,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Richard Zussman,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Andreas Victor Michiels,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Crispin of Pavia,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
+Crispin of Pavia,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent
 Christopher McCann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arseni Istomin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 A. A. Bondy,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Twin Disc,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
-Jackson Street Cemetery,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 Nicolas Belvito,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 John Thorne (colonial administrator),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Cattle Annie and Little Britches,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Cattle Annie and Little Britches,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Nathan Ryno Smith,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Magdalena Wójcik,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Rose Gacioch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Vera Cruz do Oeste,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Vadiakkadu,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Change My Life,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Change My Life,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Knut Haavik,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Vivimi,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-"Edward Denny, 1st Earl of Norwich",Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
-Cyphophanes,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Vivimi,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Cyphophanes,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Brownleea,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 Megson (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Uithuizermeeden railway station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Bionic Heart,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+Bionic Heart,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Chiaki Watanabe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 UNC Wilmington Seahawks,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Köln-Trimbornstraße station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Peter Hullermann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lottia luchuana,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Tosh Barrell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Haleiwa Fighter Strip,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 Nyakahura,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 The Upbeats,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 The Low Lows (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Paul Wormser,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Pectinivalva chalcitis,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Pectinivalva chalcitis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Fernando Sucre,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
 Max Frauenthal,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 60th Bombardment Squadron,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
@@ -430,41 +413,38 @@ Gabby Sharpe,Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
 Rhynchonelliformea,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Hassi Ben Abdellah,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Evan Baillie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Leptotyphlops occidentalis,Mx4rvVjyMJwpEbGdrcN5Y29ycA,Reptile
+Leptotyphlops occidentalis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Sillapää,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Scranton (NJT station),Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Seán Mac Aoidh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Whip My Hair,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Whip My Hair,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Manuel Muñoz (Governor of Spanish Texas),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Maria de Francesca-Cavazza,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Otis Bowen (bust),Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Otis Bowen (bust),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Takara Holdings,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 John B. Mather,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Phyllonorycter dakekanbae,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Phyllonorycter dakekanbae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Murtle Lake,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 St. Mary's College of Engineering and Technology,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Virgin Valley High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Mavros Volakas,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Tiger Please,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Bladen Nature Reserve,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 "Overtown, North Lanarkshire",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Vyacheslav Sharpar,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Thomas Kramer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Omnivium,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-"Batsto Village, New Jersey",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
+Omnivium,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Bushy Park Forest Reserve,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Charlie Lyne,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Emory Grove Historic District,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Powell PH Racer,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+Powell PH Racer,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 Mason and Oceana Railroad,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Coptodon nigrans,Mx4rvVjfU5wpEbGdrcN5Y29ycA,Fish
+Coptodon nigrans,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Francis Vidil,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tim Cross,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Donald J. Hying,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Agrococcus,Mx4rwAst7pwpEbGdrcN5Y29ycA,Microorganism
-Potlatch (steamship),Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice,Mx4rvVjVQJwpEbGdrcN5Y29ycA,TransportationDevice
+Potlatch (steamship),Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
 ECyD,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Diary of a Wimpy Kid: Dog Days (film),Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Diary of a Wimpy Kid: Dog Days (film),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Lansdowne Folk Club,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Katsukiyo Kubomatsu,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Magala-Cad District,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -475,71 +455,67 @@ Vecherniy Bishkek,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5
 Patrick van den Brink,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Eckelsbach,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Edgar Gadbois,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Mlanje Mountain chameleon,Mx4rvVjyMJwpEbGdrcN5Y29ycA,Reptile
+Mlanje Mountain chameleon,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Vartan Matiossian,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Chris Waddell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Open House (American Horror Story),Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
-Loxaspilates nakajimai,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Open House (American Horror Story),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Loxaspilates nakajimai,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Fabrizio Larini,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Finesse (comics),Mx4rwQwwBZwpEbGdrcN5Y29ycA,FictionalThing
 Nepalis in the Netherlands,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 "St. Mary's Roman Catholic Church (Elyria, Ohio)",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 2012 Greek Cup Final,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
 Piskivka,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-D-400 engine,Mx4rvVjVgZwpEbGdrcN5Y29ycA,MechanicalDevice,Mx4rvViUcpwpEbGdrcN5Y29ycA,PoweredDevice
-Soldier (Gavin DeGraw song),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+D-400 engine,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rAuvUYC-RQdmc-9BTep9nKQ,Technology-Artifact
+Soldier (Gavin DeGraw song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 McCauley Propeller Systems,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Bennie Seltzer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Laodamia faecella,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
-Roaring Beach,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+Laodamia faecella,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Coulter Field (Bishop's),Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Eva Dugan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lester Lockett,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-12x12 Original Remixes,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+12x12 Original Remixes,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Fearless Vampire Killers (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Joachim Weickert,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Maria Emilia Menezes,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Londonderry Foyle Road railway station,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Glyphipterix perimetalla,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Glyphipterix perimetalla,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Qaleh-ye Nur Mohammad,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Maximum Games,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 "Masonic Hall, Monmouth",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 Gyan Educational Institution,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Mordellistena gianassoi,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Mordellistena gianassoi,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Senji-ye Olya,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Andrei Rostotsky,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Copelatus galapagoensis,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Copelatus galapagoensis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Jean-Pierre Chambellan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Space Tourists,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Space Tourists,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Jabez Huntington (colonist),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Jolla,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Allan Coxon,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Hans Malmström,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-"Yamacraw, Kentucky",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 The New Deadwardians,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 "Kırcaklı, Nazilli",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Arnaud Dulac,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Richmond Downtown Historic District,Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 M Abdurahman Salafi,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Suomen huippumalli haussa (cycle 5),Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Suomen huippumalli haussa (cycle 5),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Ab Mishan,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Jalizi-ye Hanzaleh,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Alfred Baumgarten,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Stop the Decline,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Hrvoje Turković,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Oneida marmorata,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
-22 (Taylor Swift song),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
-Ramkan Rural District,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
+Oneida marmorata,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
+22 (Taylor Swift song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Association of Surfing Professionals Europe,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Graphium euphratoides,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Graphium euphratoides,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 "Robert Cooke (cricketer, born 1900)",Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Prosolanapyrone-II oxidase,Mx4rvViRapwpEbGdrcN5Y29ycA,ChemicalObject,Mx4rvVkI75wpEbGdrcN5Y29ycA,EdibleStuff,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVjD0JwpEbGdrcN5Y29ycA,OrganicMaterial
 David Holton,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Baba Ali, Hamadan",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Dan Massey,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Somatina anthophilata,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Somatina anthophilata,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Gerd Zimmermann (speed skater),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Photographs as Memories,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Photographs as Memories,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Epes W. Sargent,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Dawn Batterbee Miller,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Bardeh, Chaharmahal and Bakhtiari",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -553,48 +529,72 @@ Las Dunas Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEb
 Jaime Enrique Duque Correa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 GoAnimate,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Dead Boots,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-"Logan House (Wilmington, Delaware)",Mx4rvViA9JwpEbGdrcN5Y29ycA,Thing
 Murphy Army Hospital,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 1973 Aryamehr Cup,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Frame Cottage,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
-Sri Valli,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Sri Valli,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Villa de Soto Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
 NGC 262,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural
 Qeshlaqhay Arablu,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Shreya Sharma,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Stromemycin,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
-Nobody (Keith Sweat song),Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Nobody (Keith Sweat song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Sukumar Bose,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Rock 'n' Roll Mercenaries,Mx4rwAXXLZwpEbGdrcN5Y29ycA,AudioConceptualWork
+Rock 'n' Roll Mercenaries,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Rigdzin Namkha Gyatso Rinpoche,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Abomey,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mouriscas,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Aaron Wade,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Cholane,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
-Barbara of Brandenburg (1423–1481),Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
 Stanz bei Landeck,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Linowiec, Greater Poland Voivodeship",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Alfredas Skroblas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Kathleen Hirsch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Michael Dillon,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Diacheila,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Diacheila,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Kenji Kamiyama (businessman),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Caecum brennani,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michael Klinger,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Classic (novel),Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork
-Queen of Reversals,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+Classic (novel),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Queen of Reversals,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
 Freneuse-sur-Risle,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mount Putnik,Mx4rvakVVZwpEbGdrcN5Y29ycA,InanimateObject-Natural,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Cząstków Mazowiecki,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Hyperectenus,Mx4rvViwSJwpEbGdrcN5Y29ycA,Arthropod
+Hyperectenus,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Born auf dem Darß,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-The Southern Lights,Mx4rv5L5vZwpEbGdrcN5Y29ycA,PropositionalConceptualWork,Mx4rvfAugpwpEbGdrcN5Y29ycA,VisualWork
+The Southern Lights,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Richard Thomas Parker,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Eosipho,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Luis Ojeda,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Arleux,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Balıkesir,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Axel Frank,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-1977 Seattle Seahawks season,Mx4rvrOVYpwpEbGdrcN5Y29ycA,PurposefulPhysicalAction
+1977 Seattle Seahawks season,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
 Cut Off Your Hands,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Marc Galanter (psychiatrist),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+"Mechanicsburg, West Virginia",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Lillis, Kansas",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"David, Kentucky",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Mano Destra,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+"Mariah Hill, Indiana",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Seventh Ward, New Orleans",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Sunfish, Kentucky",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+St. Francis Xavier Church and Newtown Manor House Historic District,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Spring Creek Dam,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
+Jackson Street Cemetery,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Edward Denny, 1st Earl of Norwich",Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+Emory Grove Historic District,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Yamacraw, Kentucky",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Richmond Downtown Historic District,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Ramkan Rural District,Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Logan House (Wilmington, Delaware)",Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact,Mx4rvVjHL5wpEbGdrcN5Y29ycA,PhysicalDevice,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent
+Barbara of Brandenburg (1423–1481),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
+"Campsie, New South Wales",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Romilly, Vale of Glamorgan",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Highbury, South Australia",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Sikhism in Australia,Mx4rvf9sZJwpEbGdrcN5Y29ycA,AspatialInformationStore
+The Week (Indian magazine),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group
+Haleiwa Fighter Strip,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Mavros Volakas,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+"Batsto Village, New Jersey",Mx4rvVinb5wpEbGdrcN5Y29ycA,IntelligentAgent,Mx4rvjSBSZwpEbGdrcN5Y29ycA,Artifact-Generic,Mx4rvVjmoJwpEbGdrcN5Y29ycA,Group,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
+Roaring Beach,Mx4rv6EfGZwpEbGdrcN5Y29ycA,Place-NonAgent,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
