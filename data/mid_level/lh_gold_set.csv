@@ -46,7 +46,7 @@ INAP,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Romeo and Juliet (Tchaikovsky),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 G. V. Skrotskii,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Charlotte Froese Fischer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Oahe Dam,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Oahe Dam,Mx4rvViTZZwpEbGdrcN5Y29ycA,Dam
 "Katra, Jammu and Kashmir",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Assegai,Mx4rvVj8V5wpEbGdrcN5Y29ycA,Weapon
 Conspiracy fiction,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -156,7 +156,7 @@ Mercy Harbison,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Gravedigger (song),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Arnst River,Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
 Kevan Gosper,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Trinity Blood,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Trinity Blood,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 Peter Eastman (software engineer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Richard Cecil (courtier),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Songs the Lord Taught Us,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
@@ -165,7 +165,7 @@ Pekka Sammallahti,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Turner Museum of Glass,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Ikuo Sekimoto,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Ferry de Haan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Béziers Cap d'Agde Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+Béziers Cap d'Agde Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 Chavarri Palace,Mx4rvVjYHpwpEbGdrcN5Y29ycA,DetachedHouse
 Himalaya Studios,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Vazgen Azrojan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -191,7 +191,7 @@ Willanzheim,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Hunter Pence,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Kilnwick,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 "Roseville Township, Warren County, Illinois",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Texarkana (Amtrak station),Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Texarkana (Amtrak station),Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Jaroslav Filip,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tadó,Mx4rvViACZwpEbGdrcN5Y29ycA,GeographicalRegion
 Mistrato,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
@@ -372,7 +372,7 @@ Una River (Paraíba),Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
 Kinsac Lake,Mx4rvVjORZwpEbGdrcN5Y29ycA,TopographicalFeature
 Cerro de La Isla,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
 Walter Presch,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Kickapoo Downtown Airport,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Kickapoo Downtown Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 M1 highway (Belarus),Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
 McMillen High School,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Eremicola,Mx4rvVjjH5wpEbGdrcN5Y29ycA,MathematicalOrComputationalThing
@@ -536,7 +536,7 @@ Papyrus 74,Mx4rvVj3tJwpEbGdrcN5Y29ycA,WrittenCharacterSequence
 Zulu Heart,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 "Henry, Vermillion Parish, Louisiana",Mx4rvVi4_pwpEbGdrcN5Y29ycA,Neighborhood
 Alpe d'Huez Triathlon,Mx4rvVioQZwpEbGdrcN5Y29ycA,Action
-Hospital del Niño Jesús,Mx4rvVidpZwpEbGdrcN5Y29ycA,ConstructionArtifact
+Hospital del Niño Jesús,Mx4rvVjptJwpEbGdrcN5Y29ycA,HospitalBuilding
 A.F.C. Sudbury,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Load Me Up,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 "United States House of Representatives elections in South Carolina, 1924",Mx4rvVioQZwpEbGdrcN5Y29ycA,Action

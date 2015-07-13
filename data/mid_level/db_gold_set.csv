@@ -9,7 +9,7 @@ Coramae Richey Mann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 "Kent County, New Brunswick",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Ian Watt,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Gustave Courbet,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Mister Peepers,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Mister Peepers,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 William McGuigan,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 William Paterson University,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Scott McCloud,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -82,7 +82,7 @@ Chester Conklin,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Tramoyes,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Anbe Sivam,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Siege of Turin,Mx4rvViADZwpEbGdrcN5Y29ycA,Event
-Maniwaki Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+Maniwaki Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 Jerzy Brzęczek,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Mariam-uz-Zamani,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 WQKE,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
@@ -140,7 +140,7 @@ George W. Fulton Mansion,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 Secret Society (album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Bertha Brouwer,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Chuxiong City,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Superman (TV series),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Superman (TV series),Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 George Brown (footballer born 1903),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Joe Erskine (Welsh boxer),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Marcia Angell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -210,7 +210,7 @@ Villabaruz de Campos,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Râul Alb (Strei),Mx4rvVkHdJwpEbGdrcN5Y29ycA,Stream
 Marco Bjurström,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 James B. Clark (Canadian politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Merstone railway station,Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Merstone railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 José Tomás Errázuriz,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Carolliinae,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michele Florindo,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -235,7 +235,7 @@ If (Mindless Self Indulgence album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Millennium Centre (Chicago),Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 Gmina Jeżewo,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 KRSV (AM),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Tallman Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+Tallman Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 GRIK5,Mx4rv0ARKpwpEbGdrcN5Y29ycA,ProteinMolecule
 Gmina Mieścisko,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Suzanne van Veen,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -313,7 +313,7 @@ Laaxer Stöckli,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
 Stadium Bowl,Mx4rvVjtnZwpEbGdrcN5Y29ycA,Stadium
 A9 highway (Lithuania),Mx4rvyNjbZwpEbGdrcN5Y29ycA,Roadway
 "Mościska, Sierpc County",Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Lofthouse and Outwood railway station,Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Lofthouse and Outwood railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Stanley B. Kimball,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Sino Hotels,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Harald Damsleth,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -344,7 +344,7 @@ Kosinek,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mercer Bears,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 See the Light (The Hours album),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Eumicremma,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
-Lush House,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Lush House,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 Marcelinho Huertas,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Catlin Adams,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Richman Chemical,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
@@ -392,11 +392,11 @@ Vivimi,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Cyphophanes,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Brownleea,Mx4rvVjG4ZwpEbGdrcN5Y29ycA,Plant
 Megson (band),Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Uithuizermeeden railway station,Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Uithuizermeeden railway station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Bionic Heart,Mx4rwJxiRJwpEbGdrcN5Y29ycA,ComputerProgram-CW
 Chiaki Watanabe,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 UNC Wilmington Seahawks,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
-Köln-Trimbornstraße station,Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Köln-Trimbornstraße station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Peter Hullermann,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Lottia luchuana,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Tosh Barrell,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -415,7 +415,7 @@ Hassi Ben Abdellah,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Evan Baillie,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Leptotyphlops occidentalis,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Sillapää,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
-Scranton (NJT station),Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Scranton (NJT station),Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Seán Mac Aoidh,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Whip My Hair,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
 Manuel Muñoz (Governor of Spanish Texas),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -449,7 +449,7 @@ Lansdowne Folk Club,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
 Katsukiyo Kubomatsu,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Magala-Cad District,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Shahid Hussain Bhatti,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Engers station,Mx4rvYOiA5wpEbGdrcN5Y29ycA,Terminal-TransferPoint
+Engers station,Mx4rv6ZmoZwpEbGdrcN5Y29ycA,RailroadStation
 Jigme Namgyal (Bhutan),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Vecherniy Bishkek,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 Patrick van den Brink,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -525,7 +525,7 @@ Yan Jeou-rong,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Paul Brown (Australian politician),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Robert Myhrum,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Jim Don,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
-Las Dunas Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+Las Dunas Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 Jaime Enrique Duque Correa,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 GoAnimate,Mx4rvViS05wpEbGdrcN5Y29ycA,CommercialOrganization
 Dead Boots,Mx4rvVjVT5wpEbGdrcN5Y29ycA,Organization
@@ -533,7 +533,7 @@ Murphy Army Hospital,Mx4rvVjptJwpEbGdrcN5Y29ycA,HospitalBuilding
 1973 Aryamehr Cup,Mx4rwOI75pwpEbGdrcN5Y29ycA,Tournament
 Frame Cottage,Mx4rvVj7KJwpEbGdrcN5Y29ycA,Building
 Sri Valli,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Villa de Soto Airport,Mx4rvVjGR5wpEbGdrcN5Y29ycA,FixedStructure
+Villa de Soto Airport,Mx8Ngh4rvrhK-JwpEbGdrcN5Y29ycA2DHiu9WOR2nCkRsZ2tw3ljb3JwHiu9WP6vnCkRsZ2tw3ljb3JwHivAZ7e5nCkRsZ2tw3ljb3Jw,"[:CollectionUnionFn, [:TheSet, :""Airport-Physical"", :""Heliport-Physical""]]"
 NGC 262,Mx4rwPurL5wpEbGdrcN5Y29ycA,Galaxy
 Qeshlaqhay Arablu,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Shreya Sharma,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
@@ -556,7 +556,7 @@ Kenji Kamiyama (businessman),Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Caecum brennani,Mx4rvViwMZwpEbGdrcN5Y29ycA,Animal
 Michael Klinger,Mx4rvViAkpwpEbGdrcN5Y29ycA,Person
 Classic (novel),Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
-Queen of Reversals,Mx4rwClAZJwpEbGdrcN5Y29ycA,ConceptualWork
+Queen of Reversals,Mx4rwU8mTJwpEbGdrcN5Y29ycA,ConceptualWorkSeries
 Freneuse-sur-Risle,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
 Mount Putnik,Mx4rvVjODZwpEbGdrcN5Y29ycA,Mountain
 Cząstków Mazowiecki,Mx4rvVjl2pwpEbGdrcN5Y29ycA,GeopoliticalEntity
