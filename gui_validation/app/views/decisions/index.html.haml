@@ -1,0 +1,8 @@
+= simple_form_for @decision do |f|
+  = f.input :user_id, as: :hidden
+  = f.input :statement_id, as: :hidden
+  = f.select :value, %w{positive negative unsure}
+  = f.submit
+
+= link_to @decision.wikipedia_name, @decision.wiki_link
+= link_to @decision.cyc_name, @decision.cyc_link

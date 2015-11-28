@@ -1,0 +1,41 @@
+.container
+  .row
+    %h1.col-md-9
+      = @dataset.name
+    .col-md-3.main-actions
+      .btn.btn-default
+        = link_to "Datasets", datasets_path
+
+%p
+  Relation:
+  = @dataset.relation
+
+%h2 Statements
+%table.table
+  %tr
+    %th Cyc name
+    %th Wikipedia name
+  - @dataset.statements.limit(10).each do |statement|
+    %tr
+      %td= link_to statement.wikipedia_name, statement.wiki_link
+      %td= link_to statement.cyc_name, statement.cyc_link
+
+%h2 Validators
+
+%table.table
+  %tr
+    %th E-mail
+    %th Progress
+    %th
+  - @dataset.users.each do |user|
+    %tr
+      %td= user.email
+      %td
+        = "#{user.progress(@dataset)}%"
+      %td
+        = link_to "remove", remove_dataset_path(@dataset, user_id: user.id), method: :post
+
+= simple_form_for :dataset, url: assign_dataset_path(@dataset) do |f|
+  = f.select :user_id, User.all.map{|u| [u.email,u.id] }, {}#, class: "form-control"
+  = f.submit "Assign", class: %w{btn btn-default}
+

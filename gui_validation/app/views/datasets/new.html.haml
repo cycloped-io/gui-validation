@@ -1,0 +1,9 @@
+%h1 Create new dataset
+
+= simple_form_for @dataset do |f|
+  = f.input :name
+  = f.select :relation, %w{equivalence classification}
+  = f.select :language, Statement.languages
+  = f.input :file, as: :file
+  .btn.btn-default= link_to "Cancel", datasets_path
+  = f.button :submit, class: %w{btn btn-primary}

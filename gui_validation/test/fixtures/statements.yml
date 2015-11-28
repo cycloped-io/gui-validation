@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cyc_name: MyString
+  cyc_id: MyString
+  wikipedia_name: MyString
+  wikipedia_language: MyString
+  relation: MyString
+
+two:
+  cyc_name: MyString
+  cyc_id: MyString
+  wikipedia_name: MyString
+  wikipedia_language: MyString
+  relation: MyString
