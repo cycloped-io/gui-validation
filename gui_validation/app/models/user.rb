@@ -8,7 +8,25 @@ class User < ActiveRecord::Base
   has_many :decisions
 
   def progress(dataset)
-     (decisions_for(dataset).where('value is not null').count / dataset.statements.count.to_f * 100).round(1)
+     (progress_nominator(dataset) / progress_denominator(dataset) * 100).round(1)
+  end
+
+  def accuracy(dataset)
+    positive = decisions_for(dataset).where(value: 'positive').count.to_f
+    negative = decisions_for(dataset).where(value: 'negative').count.to_f
+    if positive + negative > 0
+      (positive / (positive + negative) * 100).round(1)
+    else
+      0.0.round(1)
+    end
+  end
+
+  def progress_nominator(dataset)
+    decisions_for(dataset).where('value is not null').count
+  end
+
+  def progress_denominator(dataset)
+    dataset.statements.count.to_f
   end
 
   def decisions_for(dataset)

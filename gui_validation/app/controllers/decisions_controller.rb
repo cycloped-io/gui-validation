@@ -1,28 +1,27 @@
 class DecisionsController < ApplicationController
   def index
-    action = IndexDatasetAction.new(current_user,self).call
+    action = IndexDecisionAction.new(current_user,self).call
     @decision = action.decision
   end
 
   def next
+    NextDecisionAction.new(current_user,params[:id],self).call
   end
 
   def previous
+    PreviousDecisionAction.new(current_user,params[:id],self).call
   end
 
   def show
+    @decision = Decision.find(params[:id])
+    render :index
   end
 
   def update
     @decision = Decision.find(params[:id])
-    UpdateDecisionAction.new(@decision,decision_params[:value],self).call
+    UpdateDecisionAction.new(@decision,params[:value],self).call
   end
 
   def done
-  end
-
-  private
-  def decision_params
-    params.require(:decision).permit(:value)
   end
 end

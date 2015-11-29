@@ -13,12 +13,16 @@
 %h2 Statements
 %table.table
   %tr
-    %th Cyc name
     %th Wikipedia name
+    %th Cyc name
+    %th Validation
   - @dataset.statements.limit(10).each do |statement|
     %tr
       %td= link_to statement.wikipedia_name, statement.wiki_link
       %td= link_to statement.cyc_name, statement.cyc_link
+      %td
+        - statement.decisions.each do |decision|
+          .label{class: value_class(decision.value)}= value_label(decision.value)
 
 %h2 Validators
 
@@ -26,12 +30,13 @@
   %tr
     %th E-mail
     %th Progress
+    %th Accuracy
     %th
   - @dataset.users.each do |user|
     %tr
       %td= user.email
-      %td
-        = "#{user.progress(@dataset)}%"
+      %td= "#{user.progress(@dataset)}%"
+      %td= "#{user.accuracy(@dataset)}%"
       %td
         = link_to "remove", remove_dataset_path(@dataset, user_id: user.id), method: :post
 

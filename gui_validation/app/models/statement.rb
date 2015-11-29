@@ -5,6 +5,7 @@ class Statement < ActiveRecord::Base
   validates :wikipedia_language, presence: true
 
   belongs_to :dataset
+  has_many :decisions
 
   LANGUAGE_MAPPING = {
     "English" => "en",

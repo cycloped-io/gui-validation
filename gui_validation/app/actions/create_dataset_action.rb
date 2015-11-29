@@ -21,7 +21,7 @@ class CreateDatasetAction
   private
   def create_statements(path)
     CSV.open(path) do |input|
-      input.each do |wikipedia_name,cyc_id,cyc_name|
+      input.each do |wikipedia_name,cyc_id,cyc_name,*rest|
         Statement.create!(wikipedia_name: wikipedia_name, cyc_id: cyc_id, cyc_name: cyc_name,
                           wikipedia_language: @dataset.language, dataset: @dataset)
       end

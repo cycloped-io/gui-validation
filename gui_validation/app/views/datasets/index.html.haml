@@ -4,11 +4,13 @@
   %tr
     %th Name
     %th Statements
+    %th Progress
     %td
   - @datasets.each do |dataset|
     %tr
       %td= link_to dataset.name, dataset_path(dataset)
       %td= dataset.statements.count
+      %td= dataset.progress
       %td= link_to "destroy", dataset, method: :delete
 
 .btn.btn-default

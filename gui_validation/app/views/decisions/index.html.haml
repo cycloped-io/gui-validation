@@ -1,8 +1,25 @@
-= simple_form_for @decision do |f|
-  = f.input :user_id, as: :hidden
-  = f.input :statement_id, as: :hidden
-  = f.select :value, %w{positive negative unsure}
-  = f.submit
+%h3
+  = @decision.name
+  = @decision.progress
+  = "% (#{@decision.progress_nominator.round} / #{@decision.progress_denominator.round})"
+  - if @decision.value
+    .label{class: value_class(@decision.value)}= value_label(@decision.value)
 
-= link_to @decision.wikipedia_name, @decision.wiki_link
-= link_to @decision.cyc_name, @decision.cyc_link
+%div{style: "overflow: auto; height: 120px; width: 98%"}
+  %h4
+    %strong Cyc:
+    = @decision.cyc_name
+    = "(#{@decision.cyc_title})"
+  %p= raw(@decision.cyc_comment)
+
+%div
+  = link_to raw("&laquo;"), previous_decision_path(@decision), class: %w{btn btn-default}
+  = link_to "Valid", decision_path(@decision,value: "positive"), method: :patch, class: %w{btn btn-success}
+  = link_to "Unsure", decision_path(@decision,value: "unsure"), method: :patch, class: %w{btn btn-warning}
+  = link_to "Invalid", decision_path(@decision,value: "negative"), method: :patch, class: %w{btn btn-danger}
+  = link_to raw("&raquo;"), next_decision_path(@decision), class: %w{btn btn-default}
+
+%h4
+  %strong Wikipedia:
+  = @decision.wikipedia_name
+%iframe{src: @decision.wiki_link, width: "98%", height: "430px" }

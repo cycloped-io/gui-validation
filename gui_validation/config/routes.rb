@@ -5,12 +5,12 @@ Rails.application.routes.draw do
   end
 
   resources :decisions, only: [:index, :show, :update] do
-    get :next, on: :collection
-    get :previous, on: :collection
+    get :next, on: :member
+    get :previous, on: :member
     get :done, on: :collection
   end
 
   devise_for :users
 
-  root 'datasets#index'
+  root 'decisions#index'
 end

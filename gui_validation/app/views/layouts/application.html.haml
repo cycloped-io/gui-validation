@@ -19,7 +19,7 @@
               %span.icon-bar
               %span.icon-bar
               %span.icon-bar
-            %a.navbar-brand{:href => "http://rocznik.kognitywistyka.eu"}rocznik.kognitywistyka.eu
+            %a.navbar-brand Validation GUI for Cyc
           .navbar-collapse.collapse
             %ul.nav.navbar-nav.navbar-right
               %li= link_to "Datasets", datasets_path
@@ -39,7 +39,7 @@
           .col-md-12.col-sm-12.main
             = yield
       %nav.navbar.navbar-default.navbar-fixed-bottom
-        %a{:href => "http://www.apohllo.pl", :target => "_blank"}
-          Administrator
+        .container
+          %a.navbar-brand{href: "http://www.apohllo.pl", target: "_blank"} Administrator
       :javascript
         $('.flash').fadeOut(2000,function(el){ el.hide(); })
