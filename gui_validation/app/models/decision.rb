@@ -1,5 +1,3 @@
-require 'open-uri'
-
 class Decision < ActiveRecord::Base
   validates :user_id, presence: true
   validates :statement_id, presence: true
@@ -9,6 +7,7 @@ class Decision < ActiveRecord::Base
 
   delegate :wiki_link, :cyc_link, :wikipedia_name, :cyc_name, :cyc_id, to: :statement
   delegate :name, :progress, to: :dataset
+  delegate :title, :comment, :super_types, to: :cyc_description, prefix: :cyc
 
   belongs_to :user
   belongs_to :statement
@@ -24,28 +23,6 @@ class Decision < ActiveRecord::Base
 
   def progress_denominator
     self.user.progress_denominator(self.dataset)
-  end
-
-  def cyc_title
-    cyc_xml.xpath("//owl:Class[@rdf:about='#{self.cyc_id}']/rdfs:label").first.text
-  rescue
-    "Title is missing!"
-  end
-
-  def cyc_comment
-    cyc_xml.xpath("//owl:Class[@rdf:about='#{self.cyc_id}']/rdfs:comment").first.text
-  rescue
-    "Comment is missing!"
-  end
-
-  def cyc_super_types
-    nodes = cyc_xml.xpath("//owl:Class[@rdf:about='#{self.cyc_id}']/rdfs:subClassOf")
-    logger.error nodes
-    nodes.to_a.map{|e| e.attribute_with_ns("resource","rdf") }.join(", ")
-  rescue => ex
-    logger.error ex
-    logger.error ex.backtrace[0..10].join("\n")
-    "Super-types are missing!"
   end
 
   def last_position
@@ -64,9 +41,7 @@ class Decision < ActiveRecord::Base
     previous_decision || self
   end
 
-  private
-  def cyc_xml
-    @cyc_xml ||= Nokogiri.XML(open(self.cyc_link))
+  def cyc_description
+    @cyc_description ||= ConceptDescription.new(self.cyc_id,self.cyc_link,self.logger)
   end
-
 end

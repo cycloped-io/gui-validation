@@ -10,7 +10,10 @@
     %strong Cyc:
     = @decision.cyc_name
     = "(#{@decision.cyc_title})"
-  %p= "Super-types: #{@decision.cyc_super_types}"
+  %p
+    Super-types:
+    - @decision.cyc_super_types.each do |label,comment|
+      %abbr{title: raw(strip_tags(comment))}= label
   %p= raw(@decision.cyc_comment)
 
 %div
