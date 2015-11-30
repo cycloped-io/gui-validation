@@ -8,7 +8,12 @@ class User < ActiveRecord::Base
   has_many :decisions
 
   def progress(dataset)
-     (progress_nominator(dataset) / progress_denominator(dataset) * 100).round(1)
+    denominator = progress_denominator(dataset)
+    if denominator > 0
+      (progress_nominator(dataset) / denominator * 100).round(1)
+    else
+      0.0.round(1)
+    end
   end
 
   def accuracy(dataset)

@@ -38,7 +38,7 @@
       %td= "#{user.progress(@dataset)}%"
       %td= "#{user.accuracy(@dataset)}%"
       %td
-        = link_to "remove", remove_dataset_path(@dataset, user_id: user.id), method: :post
+        = link_to "remove", remove_dataset_path(@dataset, user_id: user.id), method: :post, data: {confirm: "Are you sure?"}
 
 = simple_form_for :dataset, url: assign_dataset_path(@dataset) do |f|
   = f.select :user_id, User.all.map{|u| [u.email,u.id] }, {}#, class: "form-control"

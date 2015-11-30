@@ -38,6 +38,16 @@ class Decision < ActiveRecord::Base
     "Comment is missing!"
   end
 
+  def cyc_super_types
+    nodes = cyc_xml.xpath("//owl:Class[@rdf:about='#{self.cyc_id}']/rdfs:subClassOf")
+    logger.error nodes
+    nodes.to_a.map{|e| e.attribute_with_ns("resource","rdf") }.join(", ")
+  rescue => ex
+    logger.error ex
+    logger.error ex.backtrace[0..10].join("\n")
+    "Super-types are missing!"
+  end
+
   def last_position
     self.dataset.decisions.where(user_id: self.user_id).order(:position).select(:position).last.position
   end

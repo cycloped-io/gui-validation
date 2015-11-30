@@ -22,13 +22,14 @@
             %a.navbar-brand Validation GUI for Cyc
           .navbar-collapse.collapse
             %ul.nav.navbar-nav.navbar-right
-              %li= link_to "Datasets", datasets_path
-              %li= link_to "Decisions", decisions_path
-              %li &nbsp;
               - if user?
-                %li= link_to "Log in", destroy_user_session_path, method: :delete
+                %li= link_to "Datasets", datasets_path
+                %li= link_to "Validate", decisions_path
+                %li &nbsp;
+                %li= link_to "Log out", destroy_user_session_path, method: :delete
               - else
-                %li= link_to "Log out", new_user_session_path
+                %li= link_to "Log in", new_user_session_path
+                %li= link_to "Sign up", new_user_registration_path
       .flash
         - if flash[:error]
           .flash-error= flash[:error]

@@ -23,3 +23,5 @@ test:
 production:
   <<: *default
   database: validation_production
+  user: cyclopedio
+  password: <%= ENV['VALIDATION_DATABASE_PASSWORD'] %>
