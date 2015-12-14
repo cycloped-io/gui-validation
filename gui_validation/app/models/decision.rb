@@ -31,13 +31,13 @@ class Decision < ActiveRecord::Base
 
   def next
     next_decision = Decision.where(user_id: self.user_id).where(dataset_id: self.dataset_id).
-      where('position > ?',self.position).order(:position).first
+      where('position > ?',self.position).where(value: nil).order(:position).first
     next_decision || self
   end
 
   def previous
     previous_decision = Decision.where(user_id: self.user_id).where(dataset_id: self.dataset_id).
-      where('position < ?',self.position).order(:position).last
+      where('position < ?',self.position).where(value: nil).order(:position).last
     previous_decision || self
   end
 

@@ -5,7 +5,7 @@
   - if @decision.value
     .label{class: value_class(@decision.value)}= value_label(@decision.value)
 
-%div{style: "overflow: auto; max-height: 120px; width: 98%"}
+%div{style: "overflow: auto; max-height: 120px; height: 120px; width: 98%; margin-bottom: 5px;"}
   %h3
     %strong Cyc:
     = link_to @decision.cyc_name, @decision.cyc_link, target: "_blank"
