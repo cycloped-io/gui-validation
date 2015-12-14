@@ -1,14 +1,14 @@
-%h3
+%h4
   = @decision.name
   = @decision.progress
   = "% (#{@decision.progress_nominator.round} / #{@decision.progress_denominator.round})"
   - if @decision.value
     .label{class: value_class(@decision.value)}= value_label(@decision.value)
 
-%div{style: "overflow: auto; height: 120px; width: 98%"}
-  %h4
+%div{style: "overflow: auto; max-height: 120px; width: 98%"}
+  %h3
     %strong Cyc:
-    = @decision.cyc_name
+    = link_to @decision.cyc_name, @decision.cyc_link, target: "_blank"
     = "(#{@decision.cyc_title})"
   %p
     Super-types:
@@ -23,7 +23,7 @@
   = link_to "Valid", decision_path(@decision,value: "positive"), method: :patch, class: %w{btn btn-success}
   = link_to raw("&raquo;"), next_decision_path(@decision), class: %w{btn btn-default}
 
-%h4
+%h3
   %strong Wikipedia:
   = @decision.wikipedia_name
 %iframe{src: @decision.wiki_link, width: "98%", height: "430px" }
