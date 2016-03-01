@@ -11,7 +11,13 @@ class Dataset < ActiveRecord::Base
   has_and_belongs_to_many :users, dependent: :destroy
 
   def next_decision_for(user)
-    user.decisions_for(self).where('value is null').order(:position).first
+    last_decision = user.decisions_for(self).where('value is not null').order(:updated_at).last
+    remaining_decisions = user.decisions_for(self).where('value is null').order(:position)
+    if last_decision
+      next_decision = remaining_decisions.where('position > ?',last_decision.position).first
+      return next_decision if next_decision
+    end
+    remaining_decisions.first
   end
 
   def progress

@@ -44,4 +44,8 @@ class Decision < ActiveRecord::Base
   def cyc_description
     @cyc_description ||= ConceptDescription.new(self.cyc_id,self.cyc_link,self.logger)
   end
+
+  def to_s
+    "Decision(#{self.position}) for #{self.statement_id}: #{self.value}"
+  end
 end
