@@ -9,7 +9,10 @@ class AssignDatasetAction
     @dataset.transaction do
       @dataset.users << User.find(@user_id)
       @dataset.statements.each.with_index do |statement,index|
-        Decision.create!(user_id: @user_id, statement: statement, dataset: @dataset, position: index)
+        # The user might have some decisions already made before split
+        unless @dataset.decisions.where(user_id: @user_id).first
+          Decision.create!(user_id: @user_id, statement: statement, dataset: @dataset, position: index)
+        end
       end
     end
     @controller.redirect_to @dataset

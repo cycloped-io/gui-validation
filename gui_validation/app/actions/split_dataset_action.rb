@@ -19,6 +19,9 @@ class SplitDatasetAction
             decision.update_attribute(:dataset,new_dataset)
           end
         end
+        @dataset.users.each do |user|
+          new_dataset.users << user
+        end
       end
     end
   end
