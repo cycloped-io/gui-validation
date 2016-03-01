@@ -11,7 +11,9 @@
       %td= link_to dataset.name, dataset_path(dataset)
       %td= dataset.statements.count
       %td= dataset.progress
-      %td= link_to "destroy", dataset, method: :delete
+      %td
+        = link_to "split dataset", split_form_dataset_path(dataset), class: %w{btn btn-default btn-outline}
+        = link_to "destroy", dataset, method: :delete, class: %w{btn btn-danger btn-outline}, :"data-confirm" => "Czy na pewno chcesz usunąć ten zbiór"
 
 .btn.btn-default
   = link_to "New dataset", new_dataset_path
