@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   resources :datasets, only: [:index, :show, :new, :create, :destroy] do
     post :assign, on: :member
     post :remove, on: :member
+    get :split_form, on: :member
+    patch :split, on: :member
   end
 
   resources :decisions, only: [:index, :show, :update] do

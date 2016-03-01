@@ -1,0 +1,7 @@
+%h1 Split dataset
+
+= simple_form_for @dataset, url: split_dataset_path(@dataset) do |f|
+  = f.input :partials, as: :integer
+  .btn.btn-default= link_to "Cancel", datasets_path
+  = f.button :submit, "Split", class: %w{btn btn-primary}
+

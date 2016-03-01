@@ -1,6 +1,7 @@
 class Dataset < ActiveRecord::Base
   attr_accessor :file
   attr_accessor :user_id
+  attr_accessor :partials
 
   validates :name, presence: true
   validates :relation, presence: true
